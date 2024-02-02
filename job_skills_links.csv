@@ -1,0 +1,2784 @@
+source,target,weight
+"Istanbul, Turkey","Austin, TX, United States",1
+"Istanbul, Turkey","Paris, France",3
+"Istanbul, Turkey","Lisbon, Portugal",1
+"Istanbul, Turkey","Seoul, South Korea",2
+"Istanbul, Turkey","Oslo, Norway",2
+"Istanbul, Turkey","Beijing, China",2
+"Istanbul, Turkey","Jakarta, Indonesia",1
+"Istanbul, Turkey","Amsterdam, Netherlands",2
+"Istanbul, Turkey","Tokyo, Japan",3
+"Istanbul, Turkey","Vienna, Austria",2
+"Istanbul, Turkey","Manila, Philippines",1
+"Istanbul, Turkey","San Francisco, CA, United States",3
+"Istanbul, Turkey",Dubai - United Arab Emirates,2
+"Istanbul, Turkey","Nairobi, Kenya",1
+"Istanbul, Turkey","Xinyi District, Taiwan",1
+"Istanbul, Turkey","Stockholm, Sweden",3
+"Istanbul, Turkey","Sydney, Australia",3
+"Istanbul, Turkey",Nigeria,1
+"Istanbul, Turkey","Gurugram, India",3
+"Istanbul, Turkey","Kyiv, Ukraine",1
+"Istanbul, Turkey","Zagreb, Croatia",1
+"Istanbul, Turkey","Palo Alto, CA, United States",2
+"Istanbul, Turkey","Los Angeles, CA, United States",1
+"Istanbul, Turkey","Shanghai, China",3
+"Istanbul, Turkey","Taipei, Taiwan",1
+"Istanbul, Turkey","Wrocław, Poland",2
+"Istanbul, Turkey","München, Germany",3
+"Istanbul, Turkey","Prague, Czechia",1
+"Istanbul, Turkey","Milano, Italy",1
+"Istanbul, Turkey","Budapest, Hungary",1
+"Istanbul, Turkey","Tel Aviv-Yafo, Israel",3
+"Istanbul, Turkey","Perth, Australia",2
+"Istanbul, Turkey","Mexico City, Mexico",2
+"Istanbul, Turkey","Mountain View, CA, United States",3
+"Istanbul, Turkey","Mumbai, India",1
+"Istanbul, Turkey","Frankfurt, Germany",2
+"Istanbul, Turkey","Johannesburg, South Africa",2
+"Istanbul, Turkey","Warszawa, Poland",3
+"Istanbul, Turkey","Hamburg, Germany",3
+"Istanbul, Turkey","Vilnius, Lithuania",1
+"Istanbul, Turkey","Columbus, OH, United States",1
+"Istanbul, Turkey","Cambridge, MA, United States",2
+"Istanbul, Turkey","Bucharest, Romania",2
+"Istanbul, Turkey","Melbourne, Australia",1
+"Istanbul, Turkey","Atlanta, GA, United States",1
+"Istanbul, Turkey","Seattle, WA, United States",2
+"Istanbul, Turkey","Hyderabad, India",2
+"Istanbul, Turkey","Madrid, Spain",1
+"Istanbul, Turkey","Moscow, ID, United States",1
+"Istanbul, Turkey","Zürich, Switzerland",3
+"Istanbul, Turkey","New York, NY, United States",3
+"Istanbul, Turkey",Hong Kong,2
+"Istanbul, Turkey","São Paulo, Brazil",2
+"Istanbul, Turkey","Athens, Greece",1
+"Istanbul, Turkey","Berlin, Germany",3
+"Istanbul, Turkey","Minneapolis, MN, United States",1
+"Istanbul, Turkey","Washington, DC, United States",1
+"Istanbul, Turkey","Buenos Aires, Argentina",1
+"Istanbul, Turkey","Helsinki, Finland",2
+"Istanbul, Turkey","Dallas, TX, United States",1
+"Istanbul, Turkey","Dublin, Ireland",3
+"Istanbul, Turkey","Moskva, Russia",2
+"Istanbul, Turkey","København, Denmark",2
+"Istanbul, Turkey","Waterloo, ON, Canada",1
+"Istanbul, Turkey","San Bruno, CA, United States",1
+"Istanbul, Turkey","Chicago, IL, United States",3
+"Istanbul, Turkey","London, United Kingdom",3
+"Istanbul, Turkey","Etterbeek, Belgium",1
+"Istanbul, Turkey","Milan, Italy",3
+"Istanbul, Turkey","Sunnyvale, CA, United States",3
+"Istanbul, Turkey","Ann Arbor, MI, United States",1
+"Istanbul, Turkey","Boulder, CO, United States",1
+"Istanbul, Turkey","Bratislava, Slovakia",1
+"Istanbul, Turkey","Bogotá, Colombia",1
+"Istanbul, Turkey","Kirkland, WA, United States",2
+"Istanbul, Turkey","Montreal, QC, Canada",1
+"Istanbul, Turkey","Toronto, ON, Canada",1
+"Istanbul, Turkey",Singapore,2
+"Groningen, Netherlands","Sunnyvale, CA, United States",1
+"Groningen, Netherlands","Sydney, Australia",1
+"Groningen, Netherlands","Kirkland, WA, United States",1
+"Groningen, Netherlands","London, United Kingdom",1
+"Groningen, Netherlands","Mountain View, CA, United States",1
+"Groningen, Netherlands","The Dalles, OR, United States",1
+"Pittsburgh, PA, United States","Austin, TX, United States",1
+"Pittsburgh, PA, United States","Bengaluru, India",2
+"Pittsburgh, PA, United States","Tokyo, Japan",2
+"Pittsburgh, PA, United States","Waterloo, ON, Canada",1
+"Pittsburgh, PA, United States","San Francisco, CA, United States",2
+"Pittsburgh, PA, United States","San Bruno, CA, United States",2
+"Pittsburgh, PA, United States","Cambridge, MA, United States",2
+"Pittsburgh, PA, United States","Xinyi District, Taiwan",1
+"Pittsburgh, PA, United States","Sydney, Australia",2
+"Pittsburgh, PA, United States","Irvine, CA, United States",2
+"Pittsburgh, PA, United States","Seattle, WA, United States",2
+"Pittsburgh, PA, United States","South San Francisco, CA, United States",1
+"Pittsburgh, PA, United States","Seoul, South Korea",1
+"Pittsburgh, PA, United States","London, United Kingdom",3
+"Pittsburgh, PA, United States","New York, NY, United States",3
+"Pittsburgh, PA, United States","Los Angeles, CA, United States",1
+"Pittsburgh, PA, United States","Shanghai, China",2
+"Pittsburgh, PA, United States","Beijing, China",1
+"Pittsburgh, PA, United States","São Paulo, Brazil",1
+"Pittsburgh, PA, United States","MG, Brazil",1
+"Pittsburgh, PA, United States","Sunnyvale, CA, United States",3
+"Pittsburgh, PA, United States","Ann Arbor, MI, United States",1
+"Pittsburgh, PA, United States","Boulder, CO, United States",2
+"Pittsburgh, PA, United States","München, Germany",1
+"Pittsburgh, PA, United States","Dublin, Ireland",2
+"Pittsburgh, PA, United States","Kirkland, WA, United States",2
+"Pittsburgh, PA, United States","Tel Aviv-Yafo, Israel",2
+"Pittsburgh, PA, United States","Mountain View, CA, United States",3
+"Pittsburgh, PA, United States",Singapore,2
+"The Dalles, OR, United States","Sunnyvale, CA, United States",1
+"The Dalles, OR, United States","Sydney, Australia",1
+"The Dalles, OR, United States","Kirkland, WA, United States",1
+"The Dalles, OR, United States","London, United Kingdom",1
+"The Dalles, OR, United States","Mountain View, CA, United States",1
+"Jakarta, Indonesia","Austin, TX, United States",1
+"Jakarta, Indonesia","Warszawa, Poland",1
+"Jakarta, Indonesia","Toronto, ON, Canada",1
+"Jakarta, Indonesia","Hamburg, Germany",1
+"Jakarta, Indonesia","Melbourne, Australia",1
+"Jakarta, Indonesia","Cambridge, MA, United States",1
+"Jakarta, Indonesia","Columbus, OH, United States",1
+"Jakarta, Indonesia","Paris, France",1
+"Jakarta, Indonesia","Atlanta, GA, United States",1
+"Jakarta, Indonesia","Moscow, ID, United States",1
+"Jakarta, Indonesia","Oslo, Norway",1
+"Jakarta, Indonesia","Seoul, South Korea",1
+"Jakarta, Indonesia","New York, NY, United States",2
+"Jakarta, Indonesia","Zürich, Switzerland",1
+"Jakarta, Indonesia",Hong Kong,2
+"Jakarta, Indonesia","Beijing, China",2
+"Jakarta, Indonesia","São Paulo, Brazil",1
+"Jakarta, Indonesia","Berlin, Germany",1
+"Jakarta, Indonesia","Minneapolis, MN, United States",1
+"Jakarta, Indonesia","Washington, DC, United States",1
+"Jakarta, Indonesia","Helsinki, Finland",1
+"Jakarta, Indonesia","Dallas, TX, United States",1
+"Jakarta, Indonesia","Dublin, Ireland",2
+"Jakarta, Indonesia","Moskva, Russia",1
+"Jakarta, Indonesia","Tokyo, Japan",1
+"Jakarta, Indonesia","Vienna, Austria",1
+"Jakarta, Indonesia","København, Denmark",1
+"Jakarta, Indonesia","Waterloo, ON, Canada",1
+"Jakarta, Indonesia","San Francisco, CA, United States",2
+"Jakarta, Indonesia","Chicago, IL, United States",1
+"Jakarta, Indonesia","Xinyi District, Taiwan",2
+"Jakarta, Indonesia","Stockholm, Sweden",1
+"Jakarta, Indonesia","Sydney, Australia",2
+"Jakarta, Indonesia","Gurugram, India",1
+"Jakarta, Indonesia","Bangkok, Thailand",1
+"Jakarta, Indonesia","London, United Kingdom",2
+"Jakarta, Indonesia","Los Angeles, CA, United States",2
+"Jakarta, Indonesia","Shanghai, China",2
+"Jakarta, Indonesia","Taipei, Taiwan",1
+"Jakarta, Indonesia","Milan, Italy",1
+"Jakarta, Indonesia","Wrocław, Poland",1
+"Jakarta, Indonesia","Sunnyvale, CA, United States",2
+"Jakarta, Indonesia","Ann Arbor, MI, United States",1
+"Jakarta, Indonesia","München, Germany",1
+"Jakarta, Indonesia","Bogotá, Colombia",1
+"Jakarta, Indonesia","Kirkland, WA, United States",1
+"Jakarta, Indonesia","Tel Aviv-Yafo, Israel",1
+"Jakarta, Indonesia","Perth, Australia",1
+"Jakarta, Indonesia","Montreal, QC, Canada",1
+"Jakarta, Indonesia","Mexico City, Mexico",1
+"Jakarta, Indonesia","Mountain View, CA, United States",2
+"Jakarta, Indonesia","Frankfurt, Germany",1
+"Jakarta, Indonesia",Singapore,2
+"Jakarta, Indonesia","Johannesburg, South Africa",1
+"Reston, VA, United States","Austin, TX, United States",1
+"Reston, VA, United States","Tokyo, Japan",1
+"Reston, VA, United States","Hamburg, Germany",1
+"Reston, VA, United States","Paris, France",1
+"Reston, VA, United States","London, United Kingdom",1
+"Reston, VA, United States","Los Angeles, CA, United States",1
+"Reston, VA, United States","Seoul, South Korea",1
+"Reston, VA, United States","Shanghai, China",1
+"Reston, VA, United States","Taipei, Taiwan",1
+"Reston, VA, United States","Sunnyvale, CA, United States",1
+"Reston, VA, United States","Washington, DC, United States",1
+"Reston, VA, United States","Dublin, Ireland",1
+"Reston, VA, United States","Moskva, Russia",1
+"Reston, VA, United States","Mountain View, CA, United States",1
+"Reston, VA, United States",Singapore,1
+"Tokyo, Japan","Austin, TX, United States",4
+"Tokyo, Japan","Paris, France",7
+"Tokyo, Japan","Lisbon, Portugal",1
+"Tokyo, Japan","Seoul, South Korea",5
+"Tokyo, Japan","Oslo, Norway",2
+"Tokyo, Japan","Beijing, China",3
+"Tokyo, Japan","Portland, OR, United States",1
+"Tokyo, Japan","Salt Lake City, UT, United States",1
+"Tokyo, Japan","Amsterdam, Netherlands",3
+"Tokyo, Japan","Vienna, Austria",2
+"Tokyo, Japan","Manila, Philippines",2
+"Tokyo, Japan","San Francisco, CA, United States",8
+"Tokyo, Japan",Dubai - United Arab Emirates,2
+"Tokyo, Japan","Nairobi, Kenya",1
+"Tokyo, Japan","Xinyi District, Taiwan",3
+"Tokyo, Japan","Stockholm, Sweden",4
+"Tokyo, Japan","Sydney, Australia",7
+"Tokyo, Japan",Nigeria,1
+"Tokyo, Japan","Gurugram, India",6
+"Tokyo, Japan","Kyiv, Ukraine",1
+"Tokyo, Japan","Zagreb, Croatia",1
+"Tokyo, Japan","Los Angeles, CA, United States",3
+"Tokyo, Japan","Palo Alto, CA, United States",3
+"Tokyo, Japan","Shanghai, China",6
+"Tokyo, Japan","Taipei, Taiwan",4
+"Tokyo, Japan","Wrocław, Poland",3
+"Tokyo, Japan","München, Germany",5
+"Tokyo, Japan","Prague, Czechia",1
+"Tokyo, Japan","Milano, Italy",1
+"Tokyo, Japan","Budapest, Hungary",1
+"Tokyo, Japan","Tel Aviv-Yafo, Israel",4
+"Tokyo, Japan","Perth, Australia",2
+"Tokyo, Japan","Mexico City, Mexico",2
+"Tokyo, Japan","Mountain View, CA, United States",10
+"Tokyo, Japan","Frankfurt, Germany",3
+"Tokyo, Japan","Mumbai, India",2
+"Tokyo, Japan","Johannesburg, South Africa",2
+"Tokyo, Japan","Warszawa, Poland",4
+"Tokyo, Japan","Bengaluru, India",2
+"Tokyo, Japan","Hamburg, Germany",5
+"Tokyo, Japan","Vilnius, Lithuania",1
+"Tokyo, Japan","Columbus, OH, United States",1
+"Tokyo, Japan","Cambridge, MA, United States",3
+"Tokyo, Japan","Melbourne, Australia",1
+"Tokyo, Japan","Bucharest, Romania",2
+"Tokyo, Japan","Atlanta, GA, United States",2
+"Tokyo, Japan","Seattle, WA, United States",7
+"Tokyo, Japan","Hyderabad, India",4
+"Tokyo, Japan","Madrid, Spain",1
+"Tokyo, Japan","Moscow, ID, United States",1
+"Tokyo, Japan","New York, NY, United States",8
+"Tokyo, Japan","Zürich, Switzerland",5
+"Tokyo, Japan",Hong Kong,2
+"Tokyo, Japan","São Paulo, Brazil",4
+"Tokyo, Japan","Athens, Greece",1
+"Tokyo, Japan","Berlin, Germany",4
+"Tokyo, Japan","MG, Brazil",1
+"Tokyo, Japan","Washington, DC, United States",2
+"Tokyo, Japan","Minneapolis, MN, United States",1
+"Tokyo, Japan","Buenos Aires, Argentina",1
+"Tokyo, Japan","Helsinki, Finland",2
+"Tokyo, Japan","Dallas, TX, United States",1
+"Tokyo, Japan","Dublin, Ireland",8
+"Tokyo, Japan","Moskva, Russia",3
+"Tokyo, Japan","København, Denmark",2
+"Tokyo, Japan","Waterloo, ON, Canada",1
+"Tokyo, Japan","San Bruno, CA, United States",3
+"Tokyo, Japan","Chicago, IL, United States",4
+"Tokyo, Japan","Irvine, CA, United States",2
+"Tokyo, Japan","South San Francisco, CA, United States",2
+"Tokyo, Japan","London, United Kingdom",10
+"Tokyo, Japan","Etterbeek, Belgium",2
+"Tokyo, Japan","Milan, Italy",3
+"Tokyo, Japan","Sunnyvale, CA, United States",10
+"Tokyo, Japan","Ann Arbor, MI, United States",3
+"Tokyo, Japan","Boulder, CO, United States",3
+"Tokyo, Japan","Bratislava, Slovakia",1
+"Tokyo, Japan","Bogotá, Colombia",1
+"Tokyo, Japan","Kirkland, WA, United States",4
+"Tokyo, Japan","Montreal, QC, Canada",1
+"Tokyo, Japan","Toronto, ON, Canada",1
+"Tokyo, Japan",Singapore,8
+"Vienna, Austria","Austin, TX, United States",1
+"Vienna, Austria","Paris, France",2
+"Vienna, Austria","Lisbon, Portugal",1
+"Vienna, Austria","Oslo, Norway",2
+"Vienna, Austria","Seoul, South Korea",1
+"Vienna, Austria","Beijing, China",1
+"Vienna, Austria","Amsterdam, Netherlands",1
+"Vienna, Austria","San Francisco, CA, United States",2
+"Vienna, Austria",Dubai - United Arab Emirates,1
+"Vienna, Austria","Nairobi, Kenya",1
+"Vienna, Austria","Xinyi District, Taiwan",1
+"Vienna, Austria","Stockholm, Sweden",2
+"Vienna, Austria","Sydney, Australia",2
+"Vienna, Austria",Nigeria,1
+"Vienna, Austria","Gurugram, India",2
+"Vienna, Austria","Kyiv, Ukraine",1
+"Vienna, Austria","Zagreb, Croatia",1
+"Vienna, Austria","Los Angeles, CA, United States",1
+"Vienna, Austria","Palo Alto, CA, United States",1
+"Vienna, Austria","Shanghai, China",2
+"Vienna, Austria","Taipei, Taiwan",1
+"Vienna, Austria","Wrocław, Poland",2
+"Vienna, Austria","München, Germany",2
+"Vienna, Austria","Prague, Czechia",1
+"Vienna, Austria","Budapest, Hungary",1
+"Vienna, Austria","Tel Aviv-Yafo, Israel",2
+"Vienna, Austria","Perth, Australia",1
+"Vienna, Austria","Mexico City, Mexico",2
+"Vienna, Austria","Mountain View, CA, United States",2
+"Vienna, Austria","Frankfurt, Germany",1
+"Vienna, Austria","Johannesburg, South Africa",2
+"Vienna, Austria","Warszawa, Poland",2
+"Vienna, Austria","Hamburg, Germany",2
+"Vienna, Austria","Vilnius, Lithuania",1
+"Vienna, Austria","Melbourne, Australia",1
+"Vienna, Austria","Cambridge, MA, United States",1
+"Vienna, Austria","Columbus, OH, United States",1
+"Vienna, Austria","Bucharest, Romania",1
+"Vienna, Austria","Atlanta, GA, United States",1
+"Vienna, Austria","Hyderabad, India",1
+"Vienna, Austria","Moscow, ID, United States",1
+"Vienna, Austria","Seattle, WA, United States",1
+"Vienna, Austria","Madrid, Spain",1
+"Vienna, Austria","New York, NY, United States",2
+"Vienna, Austria","Zürich, Switzerland",2
+"Vienna, Austria",Hong Kong,2
+"Vienna, Austria","São Paulo, Brazil",1
+"Vienna, Austria","Helsinki, Finland",2
+"Vienna, Austria","Berlin, Germany",2
+"Vienna, Austria","Minneapolis, MN, United States",1
+"Vienna, Austria","Washington, DC, United States",1
+"Vienna, Austria","Athens, Greece",1
+"Vienna, Austria","Buenos Aires, Argentina",1
+"Vienna, Austria","Dallas, TX, United States",1
+"Vienna, Austria","Dublin, Ireland",2
+"Vienna, Austria","Moskva, Russia",2
+"Vienna, Austria","København, Denmark",2
+"Vienna, Austria","San Bruno, CA, United States",1
+"Vienna, Austria","Chicago, IL, United States",2
+"Vienna, Austria","London, United Kingdom",2
+"Vienna, Austria","Etterbeek, Belgium",1
+"Vienna, Austria","Milan, Italy",2
+"Vienna, Austria","Sunnyvale, CA, United States",2
+"Vienna, Austria","Ann Arbor, MI, United States",1
+"Vienna, Austria","Boulder, CO, United States",1
+"Vienna, Austria","Bratislava, Slovakia",1
+"Vienna, Austria","Bogotá, Colombia",1
+"Vienna, Austria","Kirkland, WA, United States",1
+"Vienna, Austria","Montreal, QC, Canada",1
+"Vienna, Austria","Toronto, ON, Canada",1
+"Vienna, Austria",Singapore,1
+"Manila, Philippines","Warszawa, Poland",1
+"Manila, Philippines","Hamburg, Germany",1
+"Manila, Philippines","Bucharest, Romania",1
+"Manila, Philippines","Cambridge, MA, United States",1
+"Manila, Philippines","Paris, France",1
+"Manila, Philippines","Seattle, WA, United States",2
+"Manila, Philippines","Hyderabad, India",2
+"Manila, Philippines","Seoul, South Korea",1
+"Manila, Philippines","Zürich, Switzerland",2
+"Manila, Philippines","New York, NY, United States",2
+"Manila, Philippines","Beijing, China",1
+"Manila, Philippines","São Paulo, Brazil",1
+"Manila, Philippines","Berlin, Germany",1
+"Manila, Philippines","Mumbai, India",1
+"Manila, Philippines","Dublin, Ireland",2
+"Manila, Philippines","Amsterdam, Netherlands",1
+"Manila, Philippines","Waterloo, ON, Canada",1
+"Manila, Philippines",Dubai - United Arab Emirates,1
+"Manila, Philippines","San Francisco, CA, United States",2
+"Manila, Philippines","Chicago, IL, United States",1
+"Manila, Philippines","Stockholm, Sweden",1
+"Manila, Philippines","Sydney, Australia",3
+"Manila, Philippines","Gurugram, India",1
+"Manila, Philippines","London, United Kingdom",2
+"Manila, Philippines","Palo Alto, CA, United States",1
+"Manila, Philippines","Shanghai, China",1
+"Manila, Philippines","Milan, Italy",1
+"Manila, Philippines","Wrocław, Poland",1
+"Manila, Philippines","Sunnyvale, CA, United States",2
+"Manila, Philippines","München, Germany",2
+"Manila, Philippines","Milano, Italy",1
+"Manila, Philippines","Kirkland, WA, United States",1
+"Manila, Philippines","Tel Aviv-Yafo, Israel",1
+"Manila, Philippines","Perth, Australia",1
+"Manila, Philippines","Mountain View, CA, United States",2
+"Manila, Philippines","Frankfurt, Germany",1
+"Manila, Philippines",Singapore,2
+"Xinyi District, Taiwan","Austin, TX, United States",3
+"Xinyi District, Taiwan","Paris, France",2
+"Xinyi District, Taiwan","Oslo, Norway",1
+"Xinyi District, Taiwan","Seoul, South Korea",1
+"Xinyi District, Taiwan","Beijing, China",4
+"Xinyi District, Taiwan","San Francisco, CA, United States",5
+"Xinyi District, Taiwan","Stockholm, Sweden",1
+"Xinyi District, Taiwan","Sydney, Australia",3
+"Xinyi District, Taiwan","Gurugram, India",2
+"Xinyi District, Taiwan","Los Angeles, CA, United States",4
+"Xinyi District, Taiwan","Palo Alto, CA, United States",1
+"Xinyi District, Taiwan","Shanghai, China",7
+"Xinyi District, Taiwan","Taipei, Taiwan",3
+"Xinyi District, Taiwan","Wrocław, Poland",2
+"Xinyi District, Taiwan","München, Germany",2
+"Xinyi District, Taiwan","Tel Aviv-Yafo, Israel",2
+"Xinyi District, Taiwan","Perth, Australia",1
+"Xinyi District, Taiwan","Mexico City, Mexico",2
+"Xinyi District, Taiwan","Mountain View, CA, United States",8
+"Xinyi District, Taiwan","Frankfurt, Germany",1
+"Xinyi District, Taiwan","Johannesburg, South Africa",1
+"Xinyi District, Taiwan","Bengaluru, India",1
+"Xinyi District, Taiwan","Warszawa, Poland",2
+"Xinyi District, Taiwan","Hamburg, Germany",1
+"Xinyi District, Taiwan","Melbourne, Australia",1
+"Xinyi District, Taiwan","Cambridge, MA, United States",2
+"Xinyi District, Taiwan","Columbus, OH, United States",1
+"Xinyi District, Taiwan","Atlanta, GA, United States",2
+"Xinyi District, Taiwan","Seattle, WA, United States",1
+"Xinyi District, Taiwan","Moscow, ID, United States",1
+"Xinyi District, Taiwan","Palo Alto, CA, USA",1
+"Xinyi District, Taiwan","New York, NY, United States",6
+"Xinyi District, Taiwan","Zürich, Switzerland",2
+"Xinyi District, Taiwan",Hong Kong,3
+"Xinyi District, Taiwan","São Paulo, Brazil",3
+"Xinyi District, Taiwan","Helsinki, Finland",1
+"Xinyi District, Taiwan","Berlin, Germany",1
+"Xinyi District, Taiwan","MG, Brazil",1
+"Xinyi District, Taiwan","Minneapolis, MN, United States",1
+"Xinyi District, Taiwan","Buenos Aires, Argentina",1
+"Xinyi District, Taiwan","Washington, DC, United States",1
+"Xinyi District, Taiwan","Dallas, TX, United States",1
+"Xinyi District, Taiwan","Dublin, Ireland",5
+"Xinyi District, Taiwan","Moskva, Russia",1
+"Xinyi District, Taiwan","København, Denmark",1
+"Xinyi District, Taiwan","Waterloo, ON, Canada",1
+"Xinyi District, Taiwan","Kraków, Poland",1
+"Xinyi District, Taiwan","San Bruno, CA, United States",2
+"Xinyi District, Taiwan","Chicago, IL, United States",2
+"Xinyi District, Taiwan","Irvine, CA, United States",1
+"Xinyi District, Taiwan","South San Francisco, CA, United States",2
+"Xinyi District, Taiwan","London, United Kingdom",5
+"Xinyi District, Taiwan","Bangkok, Thailand",1
+"Xinyi District, Taiwan","Milan, Italy",1
+"Xinyi District, Taiwan","Sunnyvale, CA, United States",6
+"Xinyi District, Taiwan","Ann Arbor, MI, United States",3
+"Xinyi District, Taiwan","Boulder, CO, United States",2
+"Xinyi District, Taiwan","Bogotá, Colombia",2
+"Xinyi District, Taiwan","Kirkland, WA, United States",2
+"Xinyi District, Taiwan","Montreal, QC, Canada",1
+"Xinyi District, Taiwan","Toronto, ON, Canada",1
+"Xinyi District, Taiwan",Singapore,4
+"Sydney, Australia","Austin, TX, United States",2
+"Sydney, Australia","Paris, France",6
+"Sydney, Australia","Lisbon, Portugal",1
+"Sydney, Australia","Seoul, South Korea",3
+"Sydney, Australia","Oslo, Norway",3
+"Sydney, Australia","Beijing, China",4
+"Sydney, Australia","Portland, OR, United States",1
+"Sydney, Australia","Salt Lake City, UT, United States",1
+"Sydney, Australia","Amsterdam, Netherlands",4
+"Sydney, Australia","San Francisco, CA, United States",9
+"Sydney, Australia",Dubai - United Arab Emirates,2
+"Sydney, Australia","Nairobi, Kenya",1
+"Sydney, Australia","Stockholm, Sweden",5
+"Sydney, Australia",Nigeria,1
+"Sydney, Australia","Gurugram, India",5
+"Sydney, Australia","Kyiv, Ukraine",1
+"Sydney, Australia","Zagreb, Croatia",1
+"Sydney, Australia","Los Angeles, CA, United States",4
+"Sydney, Australia","Palo Alto, CA, United States",3
+"Sydney, Australia","Shanghai, China",6
+"Sydney, Australia","Taipei, Taiwan",2
+"Sydney, Australia","Wrocław, Poland",3
+"Sydney, Australia","München, Germany",7
+"Sydney, Australia","Prague, Czechia",1
+"Sydney, Australia","Milano, Italy",1
+"Sydney, Australia","Budapest, Hungary",1
+"Sydney, Australia","Tel Aviv-Yafo, Israel",5
+"Sydney, Australia","Perth, Australia",2
+"Sydney, Australia","Mexico City, Mexico",3
+"Sydney, Australia","Mountain View, CA, United States",11
+"Sydney, Australia","Mumbai, India",3
+"Sydney, Australia","Frankfurt, Germany",3
+"Sydney, Australia","Johannesburg, South Africa",2
+"Sydney, Australia","Warszawa, Poland",4
+"Sydney, Australia","Bengaluru, India",3
+"Sydney, Australia","Hamburg, Germany",4
+"Sydney, Australia","Vilnius, Lithuania",1
+"Sydney, Australia","Columbus, OH, United States",1
+"Sydney, Australia","Cambridge, MA, United States",4
+"Sydney, Australia","Bucharest, Romania",3
+"Sydney, Australia","Melbourne, Australia",1
+"Sydney, Australia","Atlanta, GA, United States",1
+"Sydney, Australia","Seattle, WA, United States",7
+"Sydney, Australia","Hyderabad, India",5
+"Sydney, Australia","Madrid, Spain",1
+"Sydney, Australia","Moscow, ID, United States",1
+"Sydney, Australia","New York, NY, United States",9
+"Sydney, Australia","Zürich, Switzerland",5
+"Sydney, Australia",Hong Kong,3
+"Sydney, Australia","São Paulo, Brazil",3
+"Sydney, Australia","Athens, Greece",1
+"Sydney, Australia","Berlin, Germany",4
+"Sydney, Australia","MG, Brazil",1
+"Sydney, Australia","Minneapolis, MN, United States",1
+"Sydney, Australia","Washington, DC, United States",1
+"Sydney, Australia","Buenos Aires, Argentina",1
+"Sydney, Australia","Helsinki, Finland",3
+"Sydney, Australia","Dallas, TX, United States",1
+"Sydney, Australia","Dublin, Ireland",6
+"Sydney, Australia","Moskva, Russia",3
+"Sydney, Australia","København, Denmark",2
+"Sydney, Australia","Waterloo, ON, Canada",3
+"Sydney, Australia","San Bruno, CA, United States",3
+"Sydney, Australia","Chicago, IL, United States",5
+"Sydney, Australia","Irvine, CA, United States",3
+"Sydney, Australia","South San Francisco, CA, United States",2
+"Sydney, Australia","London, United Kingdom",11
+"Sydney, Australia","Bangkok, Thailand",1
+"Sydney, Australia","Etterbeek, Belgium",3
+"Sydney, Australia","Milan, Italy",3
+"Sydney, Australia","Sunnyvale, CA, United States",11
+"Sydney, Australia","Ann Arbor, MI, United States",1
+"Sydney, Australia","Boulder, CO, United States",4
+"Sydney, Australia","Bratislava, Slovakia",1
+"Sydney, Australia","Bogotá, Colombia",1
+"Sydney, Australia","Kirkland, WA, United States",5
+"Sydney, Australia","Montreal, QC, Canada",1
+"Sydney, Australia","Toronto, ON, Canada",1
+"Sydney, Australia",Singapore,8
+Nigeria,"Warszawa, Poland",1
+Nigeria,"Hamburg, Germany",1
+Nigeria,"Vilnius, Lithuania",1
+Nigeria,"Bucharest, Romania",1
+Nigeria,"Paris, France",1
+Nigeria,"Hyderabad, India",1
+Nigeria,"Seattle, WA, United States",1
+Nigeria,"Madrid, Spain",1
+Nigeria,"Oslo, Norway",1
+Nigeria,"Lisbon, Portugal",1
+Nigeria,"New York, NY, United States",1
+Nigeria,"Zürich, Switzerland",1
+Nigeria,Hong Kong,1
+Nigeria,"Athens, Greece",1
+Nigeria,"Helsinki, Finland",1
+Nigeria,"Berlin, Germany",1
+Nigeria,"Buenos Aires, Argentina",1
+Nigeria,"Dublin, Ireland",1
+Nigeria,"Amsterdam, Netherlands",1
+Nigeria,"Moskva, Russia",1
+Nigeria,"København, Denmark",1
+Nigeria,"San Francisco, CA, United States",1
+Nigeria,Dubai - United Arab Emirates,1
+Nigeria,"San Bruno, CA, United States",1
+Nigeria,"Nairobi, Kenya",1
+Nigeria,"Chicago, IL, United States",1
+Nigeria,"Stockholm, Sweden",1
+Nigeria,"Gurugram, India",1
+Nigeria,"Kyiv, Ukraine",1
+Nigeria,"Zagreb, Croatia",1
+Nigeria,"London, United Kingdom",1
+Nigeria,"Palo Alto, CA, United States",1
+Nigeria,"Etterbeek, Belgium",1
+Nigeria,"Shanghai, China",1
+Nigeria,"Milan, Italy",1
+Nigeria,"Wrocław, Poland",1
+Nigeria,"Sunnyvale, CA, United States",1
+Nigeria,"Boulder, CO, United States",1
+Nigeria,"Prague, Czechia",1
+Nigeria,"Bratislava, Slovakia",1
+Nigeria,"München, Germany",1
+Nigeria,"Budapest, Hungary",1
+Nigeria,"Kirkland, WA, United States",1
+Nigeria,"Tel Aviv-Yafo, Israel",1
+Nigeria,"Mexico City, Mexico",1
+Nigeria,"Mountain View, CA, United States",1
+Nigeria,"Johannesburg, South Africa",1
+"Kyiv, Ukraine","Warszawa, Poland",1
+"Kyiv, Ukraine","Hamburg, Germany",1
+"Kyiv, Ukraine","Vilnius, Lithuania",1
+"Kyiv, Ukraine","Bucharest, Romania",1
+"Kyiv, Ukraine","Paris, France",1
+"Kyiv, Ukraine","Hyderabad, India",1
+"Kyiv, Ukraine","Seattle, WA, United States",1
+"Kyiv, Ukraine","Madrid, Spain",1
+"Kyiv, Ukraine","Oslo, Norway",1
+"Kyiv, Ukraine","Lisbon, Portugal",1
+"Kyiv, Ukraine","New York, NY, United States",1
+"Kyiv, Ukraine","Zürich, Switzerland",1
+"Kyiv, Ukraine",Hong Kong,1
+"Kyiv, Ukraine","Athens, Greece",1
+"Kyiv, Ukraine","Helsinki, Finland",1
+"Kyiv, Ukraine","Berlin, Germany",1
+"Kyiv, Ukraine","Buenos Aires, Argentina",1
+"Kyiv, Ukraine","Dublin, Ireland",1
+"Kyiv, Ukraine","Amsterdam, Netherlands",1
+"Kyiv, Ukraine","Moskva, Russia",1
+"Kyiv, Ukraine","København, Denmark",1
+"Kyiv, Ukraine","San Francisco, CA, United States",1
+"Kyiv, Ukraine",Dubai - United Arab Emirates,1
+"Kyiv, Ukraine","San Bruno, CA, United States",1
+"Kyiv, Ukraine","Nairobi, Kenya",1
+"Kyiv, Ukraine","Chicago, IL, United States",1
+"Kyiv, Ukraine","Stockholm, Sweden",1
+"Kyiv, Ukraine","Gurugram, India",1
+"Kyiv, Ukraine","Zagreb, Croatia",1
+"Kyiv, Ukraine","London, United Kingdom",1
+"Kyiv, Ukraine","Palo Alto, CA, United States",1
+"Kyiv, Ukraine","Etterbeek, Belgium",1
+"Kyiv, Ukraine","Shanghai, China",1
+"Kyiv, Ukraine","Milan, Italy",1
+"Kyiv, Ukraine","Wrocław, Poland",1
+"Kyiv, Ukraine","Sunnyvale, CA, United States",1
+"Kyiv, Ukraine","Boulder, CO, United States",1
+"Kyiv, Ukraine","Prague, Czechia",1
+"Kyiv, Ukraine","Bratislava, Slovakia",1
+"Kyiv, Ukraine","München, Germany",1
+"Kyiv, Ukraine","Budapest, Hungary",1
+"Kyiv, Ukraine","Kirkland, WA, United States",1
+"Kyiv, Ukraine","Tel Aviv-Yafo, Israel",1
+"Kyiv, Ukraine","Mexico City, Mexico",1
+"Kyiv, Ukraine","Mountain View, CA, United States",1
+"Kyiv, Ukraine","Johannesburg, South Africa",1
+"Zagreb, Croatia","Warszawa, Poland",1
+"Zagreb, Croatia","Hamburg, Germany",1
+"Zagreb, Croatia","Vilnius, Lithuania",1
+"Zagreb, Croatia","Bucharest, Romania",1
+"Zagreb, Croatia","Paris, France",1
+"Zagreb, Croatia","Hyderabad, India",1
+"Zagreb, Croatia","Seattle, WA, United States",1
+"Zagreb, Croatia","Madrid, Spain",1
+"Zagreb, Croatia","Oslo, Norway",1
+"Zagreb, Croatia","Lisbon, Portugal",1
+"Zagreb, Croatia","New York, NY, United States",1
+"Zagreb, Croatia","Zürich, Switzerland",1
+"Zagreb, Croatia",Hong Kong,1
+"Zagreb, Croatia","Athens, Greece",1
+"Zagreb, Croatia","Helsinki, Finland",1
+"Zagreb, Croatia","Berlin, Germany",1
+"Zagreb, Croatia","Buenos Aires, Argentina",1
+"Zagreb, Croatia","Dublin, Ireland",1
+"Zagreb, Croatia","Amsterdam, Netherlands",1
+"Zagreb, Croatia","Moskva, Russia",1
+"Zagreb, Croatia","København, Denmark",1
+"Zagreb, Croatia","San Francisco, CA, United States",1
+"Zagreb, Croatia",Dubai - United Arab Emirates,1
+"Zagreb, Croatia","San Bruno, CA, United States",1
+"Zagreb, Croatia","Nairobi, Kenya",1
+"Zagreb, Croatia","Chicago, IL, United States",1
+"Zagreb, Croatia","Stockholm, Sweden",1
+"Zagreb, Croatia","Gurugram, India",1
+"Zagreb, Croatia","London, United Kingdom",1
+"Zagreb, Croatia","Palo Alto, CA, United States",1
+"Zagreb, Croatia","Etterbeek, Belgium",1
+"Zagreb, Croatia","Shanghai, China",1
+"Zagreb, Croatia","Milan, Italy",1
+"Zagreb, Croatia","Wrocław, Poland",1
+"Zagreb, Croatia","Sunnyvale, CA, United States",1
+"Zagreb, Croatia","Boulder, CO, United States",1
+"Zagreb, Croatia","Prague, Czechia",1
+"Zagreb, Croatia","Bratislava, Slovakia",1
+"Zagreb, Croatia","München, Germany",1
+"Zagreb, Croatia","Budapest, Hungary",1
+"Zagreb, Croatia","Kirkland, WA, United States",1
+"Zagreb, Croatia","Tel Aviv-Yafo, Israel",1
+"Zagreb, Croatia","Mexico City, Mexico",1
+"Zagreb, Croatia","Mountain View, CA, United States",1
+"Zagreb, Croatia","Johannesburg, South Africa",1
+"Palo Alto, CA, United States","Paris, France",3
+"Palo Alto, CA, United States","Lisbon, Portugal",1
+"Palo Alto, CA, United States","Seoul, South Korea",1
+"Palo Alto, CA, United States","Oslo, Norway",1
+"Palo Alto, CA, United States","Beijing, China",1
+"Palo Alto, CA, United States","Amsterdam, Netherlands",3
+"Palo Alto, CA, United States","San Francisco, CA, United States",3
+"Palo Alto, CA, United States",Dubai - United Arab Emirates,2
+"Palo Alto, CA, United States","Nairobi, Kenya",1
+"Palo Alto, CA, United States","Stockholm, Sweden",3
+"Palo Alto, CA, United States","Gurugram, India",3
+"Palo Alto, CA, United States","Shanghai, China",3
+"Palo Alto, CA, United States","Taipei, Taiwan",1
+"Palo Alto, CA, United States","Wrocław, Poland",1
+"Palo Alto, CA, United States","München, Germany",2
+"Palo Alto, CA, United States","Prague, Czechia",1
+"Palo Alto, CA, United States","Milano, Italy",1
+"Palo Alto, CA, United States","Budapest, Hungary",1
+"Palo Alto, CA, United States","Tel Aviv-Yafo, Israel",2
+"Palo Alto, CA, United States","Perth, Australia",1
+"Palo Alto, CA, United States","Mexico City, Mexico",1
+"Palo Alto, CA, United States","Mountain View, CA, United States",4
+"Palo Alto, CA, United States","Mumbai, India",1
+"Palo Alto, CA, United States","Frankfurt, Germany",1
+"Palo Alto, CA, United States","Johannesburg, South Africa",1
+"Palo Alto, CA, United States","Warszawa, Poland",3
+"Palo Alto, CA, United States","Hamburg, Germany",2
+"Palo Alto, CA, United States","Vilnius, Lithuania",1
+"Palo Alto, CA, United States","Bucharest, Romania",2
+"Palo Alto, CA, United States","Cambridge, MA, United States",1
+"Palo Alto, CA, United States","Seattle, WA, United States",3
+"Palo Alto, CA, United States","Hyderabad, India",3
+"Palo Alto, CA, United States","Madrid, Spain",1
+"Palo Alto, CA, United States","New York, NY, United States",3
+"Palo Alto, CA, United States","Zürich, Switzerland",2
+"Palo Alto, CA, United States",Hong Kong,1
+"Palo Alto, CA, United States","São Paulo, Brazil",1
+"Palo Alto, CA, United States","Athens, Greece",1
+"Palo Alto, CA, United States","Berlin, Germany",2
+"Palo Alto, CA, United States","Helsinki, Finland",1
+"Palo Alto, CA, United States","Buenos Aires, Argentina",1
+"Palo Alto, CA, United States","Dublin, Ireland",2
+"Palo Alto, CA, United States","Moskva, Russia",1
+"Palo Alto, CA, United States","København, Denmark",1
+"Palo Alto, CA, United States","Waterloo, ON, Canada",1
+"Palo Alto, CA, United States","San Bruno, CA, United States",2
+"Palo Alto, CA, United States","Chicago, IL, United States",2
+"Palo Alto, CA, United States","South San Francisco, CA, United States",1
+"Palo Alto, CA, United States","London, United Kingdom",3
+"Palo Alto, CA, United States","Etterbeek, Belgium",1
+"Palo Alto, CA, United States","Milan, Italy",2
+"Palo Alto, CA, United States","Sunnyvale, CA, United States",3
+"Palo Alto, CA, United States","Boulder, CO, United States",1
+"Palo Alto, CA, United States","Bratislava, Slovakia",1
+"Palo Alto, CA, United States","Kirkland, WA, United States",2
+"Palo Alto, CA, United States",Singapore,2
+"Los Angeles, CA, United States","Austin, TX, United States",3
+"Los Angeles, CA, United States","Paris, France",3
+"Los Angeles, CA, United States","Seoul, South Korea",3
+"Los Angeles, CA, United States","Oslo, Norway",1
+"Los Angeles, CA, United States","Beijing, China",4
+"Los Angeles, CA, United States","Portland, OR, United States",1
+"Los Angeles, CA, United States","Salt Lake City, UT, United States",1
+"Los Angeles, CA, United States","San Francisco, CA, United States",6
+"Los Angeles, CA, United States","Stockholm, Sweden",1
+"Los Angeles, CA, United States","Gurugram, India",2
+"Los Angeles, CA, United States","Shanghai, China",5
+"Los Angeles, CA, United States","Taipei, Taiwan",2
+"Los Angeles, CA, United States","Wrocław, Poland",2
+"Los Angeles, CA, United States","München, Germany",2
+"Los Angeles, CA, United States","Tel Aviv-Yafo, Israel",3
+"Los Angeles, CA, United States","Perth, Australia",1
+"Los Angeles, CA, United States","Mexico City, Mexico",2
+"Los Angeles, CA, United States","Mountain View, CA, United States",7
+"Los Angeles, CA, United States","Frankfurt, Germany",2
+"Los Angeles, CA, United States","Mumbai, India",1
+"Los Angeles, CA, United States","Johannesburg, South Africa",1
+"Los Angeles, CA, United States","Bengaluru, India",2
+"Los Angeles, CA, United States","Warszawa, Poland",2
+"Los Angeles, CA, United States","Hamburg, Germany",3
+"Los Angeles, CA, United States","Melbourne, Australia",1
+"Los Angeles, CA, United States","Cambridge, MA, United States",2
+"Los Angeles, CA, United States","Columbus, OH, United States",1
+"Los Angeles, CA, United States","Atlanta, GA, United States",1
+"Los Angeles, CA, United States","Seattle, WA, United States",2
+"Los Angeles, CA, United States","Moscow, ID, United States",1
+"Los Angeles, CA, United States","Palo Alto, CA, USA",1
+"Los Angeles, CA, United States","New York, NY, United States",5
+"Los Angeles, CA, United States","Zürich, Switzerland",1
+"Los Angeles, CA, United States",Hong Kong,3
+"Los Angeles, CA, United States","São Paulo, Brazil",2
+"Los Angeles, CA, United States","Helsinki, Finland",1
+"Los Angeles, CA, United States","Berlin, Germany",2
+"Los Angeles, CA, United States","Minneapolis, MN, United States",1
+"Los Angeles, CA, United States","Washington, DC, United States",2
+"Los Angeles, CA, United States","Buenos Aires, Argentina",1
+"Los Angeles, CA, United States","Dallas, TX, United States",1
+"Los Angeles, CA, United States","Dublin, Ireland",4
+"Los Angeles, CA, United States","Moskva, Russia",2
+"Los Angeles, CA, United States","København, Denmark",1
+"Los Angeles, CA, United States","Waterloo, ON, Canada",2
+"Los Angeles, CA, United States","Kraków, Poland",1
+"Los Angeles, CA, United States","San Bruno, CA, United States",3
+"Los Angeles, CA, United States","Chicago, IL, United States",3
+"Los Angeles, CA, United States","Irvine, CA, United States",2
+"Los Angeles, CA, United States","London, United Kingdom",6
+"Los Angeles, CA, United States","Bangkok, Thailand",1
+"Los Angeles, CA, United States","Etterbeek, Belgium",1
+"Los Angeles, CA, United States","Milan, Italy",1
+"Los Angeles, CA, United States","Sunnyvale, CA, United States",7
+"Los Angeles, CA, United States","Ann Arbor, MI, United States",2
+"Los Angeles, CA, United States","Boulder, CO, United States",4
+"Los Angeles, CA, United States","Bogotá, Colombia",2
+"Los Angeles, CA, United States","Kirkland, WA, United States",2
+"Los Angeles, CA, United States","Montreal, QC, Canada",1
+"Los Angeles, CA, United States","Toronto, ON, Canada",1
+"Los Angeles, CA, United States",Singapore,6
+"Taipei, Taiwan","Austin, TX, United States",3
+"Taipei, Taiwan","Warszawa, Poland",2
+"Taipei, Taiwan","Toronto, ON, Canada",1
+"Taipei, Taiwan","Hamburg, Germany",2
+"Taipei, Taiwan","Melbourne, Australia",1
+"Taipei, Taiwan","Cambridge, MA, United States",1
+"Taipei, Taiwan","Columbus, OH, United States",1
+"Taipei, Taiwan","Paris, France",4
+"Taipei, Taiwan","Atlanta, GA, United States",2
+"Taipei, Taiwan","Seattle, WA, United States",2
+"Taipei, Taiwan","Moscow, ID, United States",1
+"Taipei, Taiwan","Hyderabad, India",1
+"Taipei, Taiwan","Seoul, South Korea",2
+"Taipei, Taiwan","Oslo, Norway",1
+"Taipei, Taiwan","New York, NY, United States",3
+"Taipei, Taiwan","Zürich, Switzerland",2
+"Taipei, Taiwan",Hong Kong,1
+"Taipei, Taiwan","Beijing, China",1
+"Taipei, Taiwan","São Paulo, Brazil",2
+"Taipei, Taiwan","Berlin, Germany",1
+"Taipei, Taiwan","Minneapolis, MN, United States",1
+"Taipei, Taiwan","Washington, DC, United States",2
+"Taipei, Taiwan","Helsinki, Finland",1
+"Taipei, Taiwan","Dallas, TX, United States",1
+"Taipei, Taiwan","Dublin, Ireland",3
+"Taipei, Taiwan","Amsterdam, Netherlands",1
+"Taipei, Taiwan","Moskva, Russia",2
+"Taipei, Taiwan","København, Denmark",1
+"Taipei, Taiwan","San Francisco, CA, United States",3
+"Taipei, Taiwan","San Bruno, CA, United States",1
+"Taipei, Taiwan","Chicago, IL, United States",1
+"Taipei, Taiwan","Stockholm, Sweden",2
+"Taipei, Taiwan","Gurugram, India",3
+"Taipei, Taiwan","South San Francisco, CA, United States",2
+"Taipei, Taiwan","London, United Kingdom",4
+"Taipei, Taiwan","Shanghai, China",4
+"Taipei, Taiwan","Milan, Italy",1
+"Taipei, Taiwan","Wrocław, Poland",1
+"Taipei, Taiwan","Sunnyvale, CA, United States",4
+"Taipei, Taiwan","Ann Arbor, MI, United States",2
+"Taipei, Taiwan","München, Germany",1
+"Taipei, Taiwan","Bogotá, Colombia",1
+"Taipei, Taiwan","Kirkland, WA, United States",1
+"Taipei, Taiwan","Tel Aviv-Yafo, Israel",1
+"Taipei, Taiwan","Perth, Australia",1
+"Taipei, Taiwan","Montreal, QC, Canada",1
+"Taipei, Taiwan","Mexico City, Mexico",1
+"Taipei, Taiwan","Mountain View, CA, United States",5
+"Taipei, Taiwan","Frankfurt, Germany",1
+"Taipei, Taiwan",Singapore,4
+"Taipei, Taiwan","Johannesburg, South Africa",1
+"Wrocław, Poland","Austin, TX, United States",1
+"Wrocław, Poland","Paris, France",2
+"Wrocław, Poland","Lisbon, Portugal",1
+"Wrocław, Poland","Oslo, Norway",2
+"Wrocław, Poland","Seoul, South Korea",1
+"Wrocław, Poland","Beijing, China",2
+"Wrocław, Poland","Amsterdam, Netherlands",1
+"Wrocław, Poland","San Francisco, CA, United States",4
+"Wrocław, Poland",Dubai - United Arab Emirates,1
+"Wrocław, Poland","Nairobi, Kenya",1
+"Wrocław, Poland","Stockholm, Sweden",2
+"Wrocław, Poland","Gurugram, India",2
+"Wrocław, Poland","Shanghai, China",3
+"Wrocław, Poland","München, Germany",2
+"Wrocław, Poland","Prague, Czechia",1
+"Wrocław, Poland","Budapest, Hungary",1
+"Wrocław, Poland","Tel Aviv-Yafo, Israel",3
+"Wrocław, Poland","Perth, Australia",1
+"Wrocław, Poland","Mexico City, Mexico",2
+"Wrocław, Poland","Mountain View, CA, United States",4
+"Wrocław, Poland","Frankfurt, Germany",1
+"Wrocław, Poland","Johannesburg, South Africa",2
+"Wrocław, Poland","Warszawa, Poland",3
+"Wrocław, Poland","Hamburg, Germany",2
+"Wrocław, Poland","Vilnius, Lithuania",1
+"Wrocław, Poland","Columbus, OH, United States",1
+"Wrocław, Poland","Cambridge, MA, United States",1
+"Wrocław, Poland","Melbourne, Australia",1
+"Wrocław, Poland","Bucharest, Romania",1
+"Wrocław, Poland","Atlanta, GA, United States",1
+"Wrocław, Poland","Hyderabad, India",2
+"Wrocław, Poland","Seattle, WA, United States",2
+"Wrocław, Poland","Madrid, Spain",1
+"Wrocław, Poland","Moscow, ID, United States",1
+"Wrocław, Poland","New York, NY, United States",4
+"Wrocław, Poland","Zürich, Switzerland",3
+"Wrocław, Poland",Hong Kong,3
+"Wrocław, Poland","São Paulo, Brazil",1
+"Wrocław, Poland","Athens, Greece",1
+"Wrocław, Poland","Berlin, Germany",2
+"Wrocław, Poland","Minneapolis, MN, United States",1
+"Wrocław, Poland","Washington, DC, United States",1
+"Wrocław, Poland","Buenos Aires, Argentina",1
+"Wrocław, Poland","Helsinki, Finland",2
+"Wrocław, Poland","Dallas, TX, United States",1
+"Wrocław, Poland","Dublin, Ireland",3
+"Wrocław, Poland","Moskva, Russia",2
+"Wrocław, Poland","København, Denmark",2
+"Wrocław, Poland","Kraków, Poland",1
+"Wrocław, Poland","San Bruno, CA, United States",2
+"Wrocław, Poland","Chicago, IL, United States",3
+"Wrocław, Poland","London, United Kingdom",3
+"Wrocław, Poland","Etterbeek, Belgium",1
+"Wrocław, Poland","Milan, Italy",2
+"Wrocław, Poland","Sunnyvale, CA, United States",4
+"Wrocław, Poland","Ann Arbor, MI, United States",1
+"Wrocław, Poland","Boulder, CO, United States",2
+"Wrocław, Poland","Bratislava, Slovakia",1
+"Wrocław, Poland","Bogotá, Colombia",1
+"Wrocław, Poland","Kirkland, WA, United States",1
+"Wrocław, Poland","Montreal, QC, Canada",1
+"Wrocław, Poland","Toronto, ON, Canada",1
+"Wrocław, Poland",Singapore,2
+"München, Germany","Austin, TX, United States",2
+"München, Germany","Paris, France",5
+"München, Germany","Lisbon, Portugal",1
+"München, Germany","Seoul, South Korea",3
+"München, Germany","Oslo, Norway",3
+"München, Germany","Beijing, China",3
+"München, Germany","Portland, OR, United States",1
+"München, Germany","Salt Lake City, UT, United States",1
+"München, Germany","Amsterdam, Netherlands",3
+"München, Germany","San Francisco, CA, United States",5
+"München, Germany",Dubai - United Arab Emirates,2
+"München, Germany","Nairobi, Kenya",1
+"München, Germany","Stockholm, Sweden",4
+"München, Germany","Gurugram, India",4
+"München, Germany","Shanghai, China",4
+"München, Germany","Prague, Czechia",1
+"München, Germany","Milano, Italy",1
+"München, Germany","Budapest, Hungary",1
+"München, Germany","Tel Aviv-Yafo, Israel",4
+"München, Germany","Perth, Australia",2
+"München, Germany","Mexico City, Mexico",3
+"München, Germany","Mountain View, CA, United States",6
+"München, Germany","Mumbai, India",3
+"München, Germany","Frankfurt, Germany",3
+"München, Germany","Johannesburg, South Africa",2
+"München, Germany","Warszawa, Poland",3
+"München, Germany","Bengaluru, India",2
+"München, Germany","Hamburg, Germany",4
+"München, Germany","Vilnius, Lithuania",1
+"München, Germany","Columbus, OH, United States",1
+"München, Germany","Cambridge, MA, United States",3
+"München, Germany","Bucharest, Romania",3
+"München, Germany","Melbourne, Australia",1
+"München, Germany","Atlanta, GA, United States",1
+"München, Germany","Seattle, WA, United States",4
+"München, Germany","Hyderabad, India",3
+"München, Germany","Madrid, Spain",1
+"München, Germany","Moscow, ID, United States",1
+"München, Germany","New York, NY, United States",5
+"München, Germany","Zürich, Switzerland",4
+"München, Germany",Hong Kong,2
+"München, Germany","São Paulo, Brazil",3
+"München, Germany","Athens, Greece",1
+"München, Germany","Berlin, Germany",4
+"München, Germany","MG, Brazil",1
+"München, Germany","Minneapolis, MN, United States",1
+"München, Germany","Washington, DC, United States",1
+"München, Germany","Buenos Aires, Argentina",1
+"München, Germany","Helsinki, Finland",3
+"München, Germany","Dallas, TX, United States",1
+"München, Germany","Dublin, Ireland",4
+"München, Germany","Moskva, Russia",3
+"München, Germany","København, Denmark",2
+"München, Germany","Waterloo, ON, Canada",1
+"München, Germany","San Bruno, CA, United States",1
+"München, Germany","Chicago, IL, United States",5
+"München, Germany","Irvine, CA, United States",2
+"München, Germany","South San Francisco, CA, United States",1
+"München, Germany","London, United Kingdom",6
+"München, Germany","Etterbeek, Belgium",3
+"München, Germany","Milan, Italy",3
+"München, Germany","Sunnyvale, CA, United States",6
+"München, Germany","Ann Arbor, MI, United States",1
+"München, Germany","Boulder, CO, United States",3
+"München, Germany","Bratislava, Slovakia",1
+"München, Germany","Bogotá, Colombia",1
+"München, Germany","Kirkland, WA, United States",2
+"München, Germany","Montreal, QC, Canada",1
+"München, Germany","Toronto, ON, Canada",1
+"München, Germany",Singapore,4
+"Prague, Czechia","Warszawa, Poland",1
+"Prague, Czechia","Hamburg, Germany",1
+"Prague, Czechia","Vilnius, Lithuania",1
+"Prague, Czechia","Bucharest, Romania",1
+"Prague, Czechia","Paris, France",1
+"Prague, Czechia","Hyderabad, India",1
+"Prague, Czechia","Seattle, WA, United States",1
+"Prague, Czechia","Madrid, Spain",1
+"Prague, Czechia","Oslo, Norway",1
+"Prague, Czechia","Lisbon, Portugal",1
+"Prague, Czechia","New York, NY, United States",1
+"Prague, Czechia","Zürich, Switzerland",1
+"Prague, Czechia",Hong Kong,1
+"Prague, Czechia","Athens, Greece",1
+"Prague, Czechia","Helsinki, Finland",1
+"Prague, Czechia","Berlin, Germany",1
+"Prague, Czechia","Buenos Aires, Argentina",1
+"Prague, Czechia","Dublin, Ireland",1
+"Prague, Czechia","Amsterdam, Netherlands",1
+"Prague, Czechia","Moskva, Russia",1
+"Prague, Czechia","København, Denmark",1
+"Prague, Czechia","San Francisco, CA, United States",1
+"Prague, Czechia",Dubai - United Arab Emirates,1
+"Prague, Czechia","San Bruno, CA, United States",1
+"Prague, Czechia","Nairobi, Kenya",1
+"Prague, Czechia","Chicago, IL, United States",1
+"Prague, Czechia","Stockholm, Sweden",1
+"Prague, Czechia","Gurugram, India",1
+"Prague, Czechia","London, United Kingdom",1
+"Prague, Czechia","Etterbeek, Belgium",1
+"Prague, Czechia","Shanghai, China",1
+"Prague, Czechia","Milan, Italy",1
+"Prague, Czechia","Sunnyvale, CA, United States",1
+"Prague, Czechia","Boulder, CO, United States",1
+"Prague, Czechia","Bratislava, Slovakia",1
+"Prague, Czechia","Budapest, Hungary",1
+"Prague, Czechia","Kirkland, WA, United States",1
+"Prague, Czechia","Tel Aviv-Yafo, Israel",1
+"Prague, Czechia","Mexico City, Mexico",1
+"Prague, Czechia","Mountain View, CA, United States",1
+"Prague, Czechia","Johannesburg, South Africa",1
+"Tel Aviv-Yafo, Israel","Austin, TX, United States",3
+"Tel Aviv-Yafo, Israel","Paris, France",4
+"Tel Aviv-Yafo, Israel","Lisbon, Portugal",1
+"Tel Aviv-Yafo, Israel","Oslo, Norway",3
+"Tel Aviv-Yafo, Israel","Seoul, South Korea",3
+"Tel Aviv-Yafo, Israel","Beijing, China",5
+"Tel Aviv-Yafo, Israel","Amsterdam, Netherlands",3
+"Tel Aviv-Yafo, Israel","San Francisco, CA, United States",7
+"Tel Aviv-Yafo, Israel",Dubai - United Arab Emirates,2
+"Tel Aviv-Yafo, Israel","Nairobi, Kenya",1
+"Tel Aviv-Yafo, Israel","Stockholm, Sweden",4
+"Tel Aviv-Yafo, Israel","Gurugram, India",3
+"Tel Aviv-Yafo, Israel","Shanghai, China",5
+"Tel Aviv-Yafo, Israel","Milano, Italy",1
+"Tel Aviv-Yafo, Israel","Budapest, Hungary",1
+"Tel Aviv-Yafo, Israel","Perth, Australia",2
+"Tel Aviv-Yafo, Israel","Mexico City, Mexico",3
+"Tel Aviv-Yafo, Israel","Mountain View, CA, United States",7
+"Tel Aviv-Yafo, Israel","Frankfurt, Germany",2
+"Tel Aviv-Yafo, Israel","Mumbai, India",2
+"Tel Aviv-Yafo, Israel","Johannesburg, South Africa",2
+"Tel Aviv-Yafo, Israel","Warszawa, Poland",4
+"Tel Aviv-Yafo, Israel","Bengaluru, India",1
+"Tel Aviv-Yafo, Israel","Hamburg, Germany",3
+"Tel Aviv-Yafo, Israel","Vilnius, Lithuania",1
+"Tel Aviv-Yafo, Israel","Columbus, OH, United States",1
+"Tel Aviv-Yafo, Israel","Cambridge, MA, United States",3
+"Tel Aviv-Yafo, Israel","Bucharest, Romania",3
+"Tel Aviv-Yafo, Israel","Melbourne, Australia",1
+"Tel Aviv-Yafo, Israel","Atlanta, GA, United States",1
+"Tel Aviv-Yafo, Israel","Seattle, WA, United States",5
+"Tel Aviv-Yafo, Israel","Hyderabad, India",3
+"Tel Aviv-Yafo, Israel","Madrid, Spain",1
+"Tel Aviv-Yafo, Israel","Moscow, ID, United States",1
+"Tel Aviv-Yafo, Israel","New York, NY, United States",7
+"Tel Aviv-Yafo, Israel","Zürich, Switzerland",4
+"Tel Aviv-Yafo, Israel",Hong Kong,3
+"Tel Aviv-Yafo, Israel","São Paulo, Brazil",4
+"Tel Aviv-Yafo, Israel","Athens, Greece",1
+"Tel Aviv-Yafo, Israel","Berlin, Germany",3
+"Tel Aviv-Yafo, Israel","Minneapolis, MN, United States",1
+"Tel Aviv-Yafo, Israel","Washington, DC, United States",1
+"Tel Aviv-Yafo, Israel","Buenos Aires, Argentina",1
+"Tel Aviv-Yafo, Israel","Helsinki, Finland",3
+"Tel Aviv-Yafo, Israel","Dallas, TX, United States",1
+"Tel Aviv-Yafo, Israel","Dublin, Ireland",4
+"Tel Aviv-Yafo, Israel","Moskva, Russia",3
+"Tel Aviv-Yafo, Israel","København, Denmark",2
+"Tel Aviv-Yafo, Israel","Waterloo, ON, Canada",2
+"Tel Aviv-Yafo, Israel","Kraków, Poland",1
+"Tel Aviv-Yafo, Israel","San Bruno, CA, United States",4
+"Tel Aviv-Yafo, Israel","Chicago, IL, United States",5
+"Tel Aviv-Yafo, Israel","Irvine, CA, United States",1
+"Tel Aviv-Yafo, Israel","London, United Kingdom",6
+"Tel Aviv-Yafo, Israel","Etterbeek, Belgium",2
+"Tel Aviv-Yafo, Israel","Milan, Italy",3
+"Tel Aviv-Yafo, Israel","Sunnyvale, CA, United States",7
+"Tel Aviv-Yafo, Israel","Ann Arbor, MI, United States",2
+"Tel Aviv-Yafo, Israel","Boulder, CO, United States",5
+"Tel Aviv-Yafo, Israel","Bratislava, Slovakia",1
+"Tel Aviv-Yafo, Israel","Bogotá, Colombia",1
+"Tel Aviv-Yafo, Israel","Kirkland, WA, United States",4
+"Tel Aviv-Yafo, Israel","Montreal, QC, Canada",1
+"Tel Aviv-Yafo, Israel","Toronto, ON, Canada",1
+"Tel Aviv-Yafo, Israel",Singapore,5
+"Mexico City, Mexico","Austin, TX, United States",3
+"Mexico City, Mexico","Paris, France",3
+"Mexico City, Mexico","Lisbon, Portugal",1
+"Mexico City, Mexico","Oslo, Norway",3
+"Mexico City, Mexico","Seoul, South Korea",1
+"Mexico City, Mexico","Beijing, China",3
+"Mexico City, Mexico","Amsterdam, Netherlands",2
+"Mexico City, Mexico","San Francisco, CA, United States",4
+"Mexico City, Mexico",Dubai - United Arab Emirates,1
+"Mexico City, Mexico","Nairobi, Kenya",1
+"Mexico City, Mexico","Stockholm, Sweden",3
+"Mexico City, Mexico","Gurugram, India",2
+"Mexico City, Mexico","Shanghai, China",2
+"Mexico City, Mexico","Budapest, Hungary",1
+"Mexico City, Mexico","Perth, Australia",1
+"Mexico City, Mexico","Mountain View, CA, United States",4
+"Mexico City, Mexico","Frankfurt, Germany",1
+"Mexico City, Mexico","Mumbai, India",1
+"Mexico City, Mexico","Johannesburg, South Africa",2
+"Mexico City, Mexico","Warszawa, Poland",2
+"Mexico City, Mexico","Hamburg, Germany",2
+"Mexico City, Mexico","Vilnius, Lithuania",1
+"Mexico City, Mexico","Columbus, OH, United States",1
+"Mexico City, Mexico","Cambridge, MA, United States",1
+"Mexico City, Mexico","Bucharest, Romania",2
+"Mexico City, Mexico","Melbourne, Australia",1
+"Mexico City, Mexico","Atlanta, GA, United States",1
+"Mexico City, Mexico","Seattle, WA, United States",2
+"Mexico City, Mexico","Hyderabad, India",2
+"Mexico City, Mexico","Palo Alto, CA, USA",1
+"Mexico City, Mexico","Madrid, Spain",1
+"Mexico City, Mexico","Moscow, ID, United States",1
+"Mexico City, Mexico","Zürich, Switzerland",3
+"Mexico City, Mexico","New York, NY, United States",4
+"Mexico City, Mexico",Hong Kong,2
+"Mexico City, Mexico","São Paulo, Brazil",3
+"Mexico City, Mexico","Athens, Greece",1
+"Mexico City, Mexico","Berlin, Germany",2
+"Mexico City, Mexico","Minneapolis, MN, United States",1
+"Mexico City, Mexico","Washington, DC, United States",1
+"Mexico City, Mexico","Buenos Aires, Argentina",2
+"Mexico City, Mexico","Helsinki, Finland",3
+"Mexico City, Mexico","Dallas, TX, United States",1
+"Mexico City, Mexico","Dublin, Ireland",3
+"Mexico City, Mexico","Moskva, Russia",3
+"Mexico City, Mexico","København, Denmark",2
+"Mexico City, Mexico","San Bruno, CA, United States",2
+"Mexico City, Mexico","Chicago, IL, United States",3
+"Mexico City, Mexico","London, United Kingdom",4
+"Mexico City, Mexico","Etterbeek, Belgium",2
+"Mexico City, Mexico","Milan, Italy",2
+"Mexico City, Mexico","Sunnyvale, CA, United States",4
+"Mexico City, Mexico","Ann Arbor, MI, United States",2
+"Mexico City, Mexico","Boulder, CO, United States",3
+"Mexico City, Mexico","Bratislava, Slovakia",1
+"Mexico City, Mexico","Bogotá, Colombia",2
+"Mexico City, Mexico","Kirkland, WA, United States",1
+"Mexico City, Mexico","Montreal, QC, Canada",1
+"Mexico City, Mexico","Toronto, ON, Canada",1
+"Mexico City, Mexico",Singapore,3
+"Mumbai, India","Austin, TX, United States",1
+"Mumbai, India","Bengaluru, India",1
+"Mumbai, India","Warszawa, Poland",1
+"Mumbai, India","Hamburg, Germany",2
+"Mumbai, India","Bucharest, Romania",2
+"Mumbai, India","Cambridge, MA, United States",1
+"Mumbai, India","Paris, France",3
+"Mumbai, India","Seattle, WA, United States",3
+"Mumbai, India","Hyderabad, India",2
+"Mumbai, India","Seoul, South Korea",2
+"Mumbai, India","Oslo, Norway",1
+"Mumbai, India","Zürich, Switzerland",2
+"Mumbai, India","New York, NY, United States",2
+"Mumbai, India","Beijing, China",2
+"Mumbai, India","Portland, OR, United States",1
+"Mumbai, India","São Paulo, Brazil",2
+"Mumbai, India","Berlin, Germany",2
+"Mumbai, India","Helsinki, Finland",1
+"Mumbai, India","Salt Lake City, UT, United States",1
+"Mumbai, India","Amsterdam, Netherlands",2
+"Mumbai, India","Dublin, Ireland",1
+"Mumbai, India","Moskva, Russia",1
+"Mumbai, India","Waterloo, ON, Canada",1
+"Mumbai, India","San Francisco, CA, United States",3
+"Mumbai, India",Dubai - United Arab Emirates,1
+"Mumbai, India","Chicago, IL, United States",3
+"Mumbai, India","Stockholm, Sweden",2
+"Mumbai, India","Gurugram, India",2
+"Mumbai, India","Irvine, CA, United States",1
+"Mumbai, India","London, United Kingdom",3
+"Mumbai, India","Etterbeek, Belgium",2
+"Mumbai, India","Milan, Italy",1
+"Mumbai, India","Frankfurt, Germany",2
+"Mumbai, India","Shanghai, China",1
+"Mumbai, India","Sunnyvale, CA, United States",3
+"Mumbai, India","Boulder, CO, United States",2
+"Mumbai, India","Milano, Italy",1
+"Mumbai, India","Kirkland, WA, United States",1
+"Mumbai, India","Perth, Australia",1
+"Mumbai, India","Mountain View, CA, United States",3
+"Mumbai, India",Singapore,3
+"Frankfurt, Germany","Austin, TX, United States",1
+"Frankfurt, Germany","Paris, France",3
+"Frankfurt, Germany","Seoul, South Korea",3
+"Frankfurt, Germany","Oslo, Norway",1
+"Frankfurt, Germany","Beijing, China",2
+"Frankfurt, Germany","Portland, OR, United States",1
+"Frankfurt, Germany","Salt Lake City, UT, United States",1
+"Frankfurt, Germany","Amsterdam, Netherlands",1
+"Frankfurt, Germany","San Francisco, CA, United States",3
+"Frankfurt, Germany",Dubai - United Arab Emirates,1
+"Frankfurt, Germany","Stockholm, Sweden",2
+"Frankfurt, Germany","Gurugram, India",3
+"Frankfurt, Germany","Shanghai, China",2
+"Frankfurt, Germany","Milano, Italy",1
+"Frankfurt, Germany","Perth, Australia",2
+"Frankfurt, Germany","Mountain View, CA, United States",3
+"Frankfurt, Germany","Johannesburg, South Africa",1
+"Frankfurt, Germany","Bengaluru, India",1
+"Frankfurt, Germany","Warszawa, Poland",2
+"Frankfurt, Germany","Hamburg, Germany",3
+"Frankfurt, Germany","Bucharest, Romania",1
+"Frankfurt, Germany","Cambridge, MA, United States",2
+"Frankfurt, Germany","Melbourne, Australia",1
+"Frankfurt, Germany","Columbus, OH, United States",1
+"Frankfurt, Germany","Atlanta, GA, United States",1
+"Frankfurt, Germany","Seattle, WA, United States",2
+"Frankfurt, Germany","Hyderabad, India",1
+"Frankfurt, Germany","Moscow, ID, United States",1
+"Frankfurt, Germany","New York, NY, United States",2
+"Frankfurt, Germany","Zürich, Switzerland",2
+"Frankfurt, Germany",Hong Kong,1
+"Frankfurt, Germany","São Paulo, Brazil",2
+"Frankfurt, Germany","Helsinki, Finland",1
+"Frankfurt, Germany","Berlin, Germany",3
+"Frankfurt, Germany","Minneapolis, MN, United States",1
+"Frankfurt, Germany","Washington, DC, United States",1
+"Frankfurt, Germany","Dallas, TX, United States",1
+"Frankfurt, Germany","Dublin, Ireland",2
+"Frankfurt, Germany","Moskva, Russia",1
+"Frankfurt, Germany","København, Denmark",1
+"Frankfurt, Germany","Waterloo, ON, Canada",1
+"Frankfurt, Germany","Chicago, IL, United States",3
+"Frankfurt, Germany","Irvine, CA, United States",1
+"Frankfurt, Germany","London, United Kingdom",3
+"Frankfurt, Germany","Etterbeek, Belgium",1
+"Frankfurt, Germany","Milan, Italy",2
+"Frankfurt, Germany","Sunnyvale, CA, United States",3
+"Frankfurt, Germany","Ann Arbor, MI, United States",1
+"Frankfurt, Germany","Boulder, CO, United States",1
+"Frankfurt, Germany","Bogotá, Colombia",1
+"Frankfurt, Germany","Kirkland, WA, United States",1
+"Frankfurt, Germany","Montreal, QC, Canada",1
+"Frankfurt, Germany","Toronto, ON, Canada",1
+"Frankfurt, Germany",Singapore,3
+"Johannesburg, South Africa","Austin, TX, United States",1
+"Johannesburg, South Africa","Paris, France",2
+"Johannesburg, South Africa","Lisbon, Portugal",1
+"Johannesburg, South Africa","Oslo, Norway",2
+"Johannesburg, South Africa","Seoul, South Korea",1
+"Johannesburg, South Africa","Beijing, China",1
+"Johannesburg, South Africa","Amsterdam, Netherlands",1
+"Johannesburg, South Africa","San Francisco, CA, United States",2
+"Johannesburg, South Africa",Dubai - United Arab Emirates,1
+"Johannesburg, South Africa","Nairobi, Kenya",1
+"Johannesburg, South Africa","Stockholm, Sweden",2
+"Johannesburg, South Africa","Gurugram, India",2
+"Johannesburg, South Africa","Shanghai, China",2
+"Johannesburg, South Africa","Budapest, Hungary",1
+"Johannesburg, South Africa","Perth, Australia",1
+"Johannesburg, South Africa","Mountain View, CA, United States",2
+"Johannesburg, South Africa","Warszawa, Poland",2
+"Johannesburg, South Africa","Hamburg, Germany",2
+"Johannesburg, South Africa","Vilnius, Lithuania",1
+"Johannesburg, South Africa","Melbourne, Australia",1
+"Johannesburg, South Africa","Cambridge, MA, United States",1
+"Johannesburg, South Africa","Columbus, OH, United States",1
+"Johannesburg, South Africa","Bucharest, Romania",1
+"Johannesburg, South Africa","Atlanta, GA, United States",1
+"Johannesburg, South Africa","Hyderabad, India",1
+"Johannesburg, South Africa","Moscow, ID, United States",1
+"Johannesburg, South Africa","Seattle, WA, United States",1
+"Johannesburg, South Africa","Madrid, Spain",1
+"Johannesburg, South Africa","New York, NY, United States",2
+"Johannesburg, South Africa","Zürich, Switzerland",2
+"Johannesburg, South Africa",Hong Kong,2
+"Johannesburg, South Africa","São Paulo, Brazil",1
+"Johannesburg, South Africa","Helsinki, Finland",2
+"Johannesburg, South Africa","Berlin, Germany",2
+"Johannesburg, South Africa","Minneapolis, MN, United States",1
+"Johannesburg, South Africa","Washington, DC, United States",1
+"Johannesburg, South Africa","Athens, Greece",1
+"Johannesburg, South Africa","Buenos Aires, Argentina",1
+"Johannesburg, South Africa","Dallas, TX, United States",1
+"Johannesburg, South Africa","Dublin, Ireland",2
+"Johannesburg, South Africa","Moskva, Russia",2
+"Johannesburg, South Africa","København, Denmark",2
+"Johannesburg, South Africa","San Bruno, CA, United States",1
+"Johannesburg, South Africa","Chicago, IL, United States",2
+"Johannesburg, South Africa","London, United Kingdom",2
+"Johannesburg, South Africa","Etterbeek, Belgium",1
+"Johannesburg, South Africa","Milan, Italy",2
+"Johannesburg, South Africa","Sunnyvale, CA, United States",2
+"Johannesburg, South Africa","Ann Arbor, MI, United States",1
+"Johannesburg, South Africa","Boulder, CO, United States",1
+"Johannesburg, South Africa","Bratislava, Slovakia",1
+"Johannesburg, South Africa","Bogotá, Colombia",1
+"Johannesburg, South Africa","Kirkland, WA, United States",1
+"Johannesburg, South Africa","Montreal, QC, Canada",1
+"Johannesburg, South Africa","Toronto, ON, Canada",1
+"Johannesburg, South Africa",Singapore,1
+"Warszawa, Poland","Austin, TX, United States",1
+"Warszawa, Poland","Paris, France",4
+"Warszawa, Poland","Lisbon, Portugal",1
+"Warszawa, Poland","Oslo, Norway",2
+"Warszawa, Poland","Seoul, South Korea",2
+"Warszawa, Poland","Beijing, China",3
+"Warszawa, Poland","Amsterdam, Netherlands",3
+"Warszawa, Poland","San Francisco, CA, United States",5
+"Warszawa, Poland",Dubai - United Arab Emirates,2
+"Warszawa, Poland","Nairobi, Kenya",1
+"Warszawa, Poland","Stockholm, Sweden",4
+"Warszawa, Poland","Gurugram, India",4
+"Warszawa, Poland","Shanghai, China",4
+"Warszawa, Poland","Milano, Italy",1
+"Warszawa, Poland","Budapest, Hungary",1
+"Warszawa, Poland","Perth, Australia",2
+"Warszawa, Poland","Mountain View, CA, United States",5
+"Warszawa, Poland","Hamburg, Germany",3
+"Warszawa, Poland","Vilnius, Lithuania",1
+"Warszawa, Poland","Columbus, OH, United States",1
+"Warszawa, Poland","Cambridge, MA, United States",2
+"Warszawa, Poland","Melbourne, Australia",1
+"Warszawa, Poland","Bucharest, Romania",2
+"Warszawa, Poland","Atlanta, GA, United States",1
+"Warszawa, Poland","Seattle, WA, United States",3
+"Warszawa, Poland","Hyderabad, India",3
+"Warszawa, Poland","Madrid, Spain",1
+"Warszawa, Poland","Moscow, ID, United States",1
+"Warszawa, Poland","New York, NY, United States",5
+"Warszawa, Poland","Zürich, Switzerland",3
+"Warszawa, Poland",Hong Kong,3
+"Warszawa, Poland","São Paulo, Brazil",2
+"Warszawa, Poland","Athens, Greece",1
+"Warszawa, Poland","Berlin, Germany",3
+"Warszawa, Poland","Minneapolis, MN, United States",1
+"Warszawa, Poland","Washington, DC, United States",1
+"Warszawa, Poland","Buenos Aires, Argentina",1
+"Warszawa, Poland","Helsinki, Finland",2
+"Warszawa, Poland","Dallas, TX, United States",1
+"Warszawa, Poland","Dublin, Ireland",3
+"Warszawa, Poland","Moskva, Russia",2
+"Warszawa, Poland","København, Denmark",2
+"Warszawa, Poland","Waterloo, ON, Canada",1
+"Warszawa, Poland","Kraków, Poland",1
+"Warszawa, Poland","San Bruno, CA, United States",3
+"Warszawa, Poland","Chicago, IL, United States",4
+"Warszawa, Poland","South San Francisco, CA, United States",1
+"Warszawa, Poland","London, United Kingdom",4
+"Warszawa, Poland","Etterbeek, Belgium",1
+"Warszawa, Poland","Milan, Italy",3
+"Warszawa, Poland","Sunnyvale, CA, United States",5
+"Warszawa, Poland","Ann Arbor, MI, United States",1
+"Warszawa, Poland","Boulder, CO, United States",2
+"Warszawa, Poland","Bratislava, Slovakia",1
+"Warszawa, Poland","Bogotá, Colombia",1
+"Warszawa, Poland","Kirkland, WA, United States",2
+"Warszawa, Poland","Montreal, QC, Canada",1
+"Warszawa, Poland","Toronto, ON, Canada",1
+"Warszawa, Poland",Singapore,3
+"Vilnius, Lithuania","Hamburg, Germany",1
+"Vilnius, Lithuania","Bucharest, Romania",1
+"Vilnius, Lithuania","Paris, France",1
+"Vilnius, Lithuania","Hyderabad, India",1
+"Vilnius, Lithuania","Seattle, WA, United States",1
+"Vilnius, Lithuania","Madrid, Spain",1
+"Vilnius, Lithuania","Oslo, Norway",1
+"Vilnius, Lithuania","Lisbon, Portugal",1
+"Vilnius, Lithuania","New York, NY, United States",1
+"Vilnius, Lithuania","Zürich, Switzerland",1
+"Vilnius, Lithuania",Hong Kong,1
+"Vilnius, Lithuania","Athens, Greece",1
+"Vilnius, Lithuania","Helsinki, Finland",1
+"Vilnius, Lithuania","Berlin, Germany",1
+"Vilnius, Lithuania","Buenos Aires, Argentina",1
+"Vilnius, Lithuania","Dublin, Ireland",1
+"Vilnius, Lithuania","Amsterdam, Netherlands",1
+"Vilnius, Lithuania","Moskva, Russia",1
+"Vilnius, Lithuania","København, Denmark",1
+"Vilnius, Lithuania","San Francisco, CA, United States",1
+"Vilnius, Lithuania",Dubai - United Arab Emirates,1
+"Vilnius, Lithuania","San Bruno, CA, United States",1
+"Vilnius, Lithuania","Nairobi, Kenya",1
+"Vilnius, Lithuania","Chicago, IL, United States",1
+"Vilnius, Lithuania","Stockholm, Sweden",1
+"Vilnius, Lithuania","Gurugram, India",1
+"Vilnius, Lithuania","London, United Kingdom",1
+"Vilnius, Lithuania","Etterbeek, Belgium",1
+"Vilnius, Lithuania","Shanghai, China",1
+"Vilnius, Lithuania","Milan, Italy",1
+"Vilnius, Lithuania","Sunnyvale, CA, United States",1
+"Vilnius, Lithuania","Boulder, CO, United States",1
+"Vilnius, Lithuania","Bratislava, Slovakia",1
+"Vilnius, Lithuania","Budapest, Hungary",1
+"Vilnius, Lithuania","Kirkland, WA, United States",1
+"Vilnius, Lithuania","Mountain View, CA, United States",1
+"Columbus, OH, United States","Austin, TX, United States",1
+"Columbus, OH, United States","Toronto, ON, Canada",1
+"Columbus, OH, United States","Hamburg, Germany",1
+"Columbus, OH, United States","Melbourne, Australia",1
+"Columbus, OH, United States","Cambridge, MA, United States",1
+"Columbus, OH, United States","Paris, France",1
+"Columbus, OH, United States","Atlanta, GA, United States",1
+"Columbus, OH, United States","Moscow, ID, United States",1
+"Columbus, OH, United States","Oslo, Norway",1
+"Columbus, OH, United States","Seoul, South Korea",1
+"Columbus, OH, United States","New York, NY, United States",1
+"Columbus, OH, United States","Zürich, Switzerland",1
+"Columbus, OH, United States",Hong Kong,1
+"Columbus, OH, United States","Beijing, China",1
+"Columbus, OH, United States","São Paulo, Brazil",1
+"Columbus, OH, United States","Berlin, Germany",1
+"Columbus, OH, United States","Minneapolis, MN, United States",1
+"Columbus, OH, United States","Washington, DC, United States",1
+"Columbus, OH, United States","Helsinki, Finland",1
+"Columbus, OH, United States","Dallas, TX, United States",1
+"Columbus, OH, United States","Dublin, Ireland",1
+"Columbus, OH, United States","Moskva, Russia",1
+"Columbus, OH, United States","København, Denmark",1
+"Columbus, OH, United States","San Francisco, CA, United States",1
+"Columbus, OH, United States","Chicago, IL, United States",1
+"Columbus, OH, United States","Stockholm, Sweden",1
+"Columbus, OH, United States","Gurugram, India",1
+"Columbus, OH, United States","London, United Kingdom",1
+"Columbus, OH, United States","Shanghai, China",1
+"Columbus, OH, United States","Milan, Italy",1
+"Columbus, OH, United States","Sunnyvale, CA, United States",1
+"Columbus, OH, United States","Ann Arbor, MI, United States",1
+"Columbus, OH, United States","Bogotá, Colombia",1
+"Columbus, OH, United States","Perth, Australia",1
+"Columbus, OH, United States","Montreal, QC, Canada",1
+"Columbus, OH, United States","Mountain View, CA, United States",1
+"Columbus, OH, United States",Singapore,1
+"Cambridge, MA, United States","Austin, TX, United States",1
+"Cambridge, MA, United States","Paris, France",2
+"Cambridge, MA, United States","Seoul, South Korea",2
+"Cambridge, MA, United States","Oslo, Norway",1
+"Cambridge, MA, United States","Beijing, China",2
+"Cambridge, MA, United States","Amsterdam, Netherlands",1
+"Cambridge, MA, United States","San Francisco, CA, United States",3
+"Cambridge, MA, United States",Dubai - United Arab Emirates,1
+"Cambridge, MA, United States","Stockholm, Sweden",2
+"Cambridge, MA, United States","Gurugram, India",2
+"Cambridge, MA, United States","Shanghai, China",4
+"Cambridge, MA, United States","Milano, Italy",1
+"Cambridge, MA, United States","Perth, Australia",2
+"Cambridge, MA, United States","Mountain View, CA, United States",4
+"Cambridge, MA, United States","Bengaluru, India",2
+"Cambridge, MA, United States","Hamburg, Germany",2
+"Cambridge, MA, United States","Bucharest, Romania",1
+"Cambridge, MA, United States","Melbourne, Australia",1
+"Cambridge, MA, United States","Atlanta, GA, United States",1
+"Cambridge, MA, United States","Seattle, WA, United States",2
+"Cambridge, MA, United States","Hyderabad, India",1
+"Cambridge, MA, United States","Moscow, ID, United States",1
+"Cambridge, MA, United States","Zürich, Switzerland",2
+"Cambridge, MA, United States","New York, NY, United States",4
+"Cambridge, MA, United States",Hong Kong,1
+"Cambridge, MA, United States","São Paulo, Brazil",2
+"Cambridge, MA, United States","Helsinki, Finland",1
+"Cambridge, MA, United States","Berlin, Germany",2
+"Cambridge, MA, United States","Minneapolis, MN, United States",1
+"Cambridge, MA, United States","Washington, DC, United States",1
+"Cambridge, MA, United States","MG, Brazil",1
+"Cambridge, MA, United States","Dallas, TX, United States",1
+"Cambridge, MA, United States","Dublin, Ireland",3
+"Cambridge, MA, United States","Moskva, Russia",1
+"Cambridge, MA, United States","København, Denmark",1
+"Cambridge, MA, United States","Waterloo, ON, Canada",2
+"Cambridge, MA, United States","San Bruno, CA, United States",1
+"Cambridge, MA, United States","Chicago, IL, United States",2
+"Cambridge, MA, United States","Irvine, CA, United States",2
+"Cambridge, MA, United States","South San Francisco, CA, United States",1
+"Cambridge, MA, United States","London, United Kingdom",4
+"Cambridge, MA, United States","Milan, Italy",2
+"Cambridge, MA, United States","Sunnyvale, CA, United States",4
+"Cambridge, MA, United States","Ann Arbor, MI, United States",1
+"Cambridge, MA, United States","Boulder, CO, United States",1
+"Cambridge, MA, United States","Bogotá, Colombia",1
+"Cambridge, MA, United States","Kirkland, WA, United States",2
+"Cambridge, MA, United States","Montreal, QC, Canada",1
+"Cambridge, MA, United States","Toronto, ON, Canada",1
+"Cambridge, MA, United States",Singapore,3
+"Atlanta, GA, United States","Austin, TX, United States",2
+"Atlanta, GA, United States","Toronto, ON, Canada",1
+"Atlanta, GA, United States","Hamburg, Germany",1
+"Atlanta, GA, United States","Melbourne, Australia",1
+"Atlanta, GA, United States","Paris, France",2
+"Atlanta, GA, United States","Seattle, WA, United States",1
+"Atlanta, GA, United States","Moscow, ID, United States",1
+"Atlanta, GA, United States","Oslo, Norway",1
+"Atlanta, GA, United States","Seoul, South Korea",1
+"Atlanta, GA, United States","New York, NY, United States",2
+"Atlanta, GA, United States","Zürich, Switzerland",2
+"Atlanta, GA, United States",Hong Kong,1
+"Atlanta, GA, United States","Beijing, China",1
+"Atlanta, GA, United States","São Paulo, Brazil",2
+"Atlanta, GA, United States","Berlin, Germany",1
+"Atlanta, GA, United States","Minneapolis, MN, United States",1
+"Atlanta, GA, United States","Washington, DC, United States",1
+"Atlanta, GA, United States","Helsinki, Finland",1
+"Atlanta, GA, United States","Dallas, TX, United States",1
+"Atlanta, GA, United States","Dublin, Ireland",2
+"Atlanta, GA, United States","Moskva, Russia",1
+"Atlanta, GA, United States","København, Denmark",1
+"Atlanta, GA, United States","San Francisco, CA, United States",2
+"Atlanta, GA, United States","Chicago, IL, United States",1
+"Atlanta, GA, United States","Stockholm, Sweden",1
+"Atlanta, GA, United States","Gurugram, India",2
+"Atlanta, GA, United States","London, United Kingdom",2
+"Atlanta, GA, United States","Shanghai, China",2
+"Atlanta, GA, United States","Milan, Italy",1
+"Atlanta, GA, United States","Sunnyvale, CA, United States",2
+"Atlanta, GA, United States","Ann Arbor, MI, United States",2
+"Atlanta, GA, United States","Bogotá, Colombia",1
+"Atlanta, GA, United States","Kirkland, WA, United States",1
+"Atlanta, GA, United States","Perth, Australia",1
+"Atlanta, GA, United States","Montreal, QC, Canada",1
+"Atlanta, GA, United States","Mountain View, CA, United States",2
+"Atlanta, GA, United States",Singapore,2
+"Seattle, WA, United States","Austin, TX, United States",3
+"Seattle, WA, United States","Paris, France",6
+"Seattle, WA, United States","Lisbon, Portugal",1
+"Seattle, WA, United States","Seoul, South Korea",3
+"Seattle, WA, United States","Oslo, Norway",2
+"Seattle, WA, United States","Beijing, China",3
+"Seattle, WA, United States","Portland, OR, United States",1
+"Seattle, WA, United States","Salt Lake City, UT, United States",1
+"Seattle, WA, United States","Amsterdam, Netherlands",4
+"Seattle, WA, United States","San Francisco, CA, United States",10
+"Seattle, WA, United States",Dubai - United Arab Emirates,2
+"Seattle, WA, United States","Nairobi, Kenya",1
+"Seattle, WA, United States","Stockholm, Sweden",4
+"Seattle, WA, United States","Gurugram, India",5
+"Seattle, WA, United States","Shanghai, China",4
+"Seattle, WA, United States","Milano, Italy",1
+"Seattle, WA, United States","Budapest, Hungary",1
+"Seattle, WA, United States","Perth, Australia",1
+"Seattle, WA, United States","Mountain View, CA, United States",10
+"Seattle, WA, United States","Bengaluru, India",2
+"Seattle, WA, United States","Hamburg, Germany",3
+"Seattle, WA, United States","Bucharest, Romania",3
+"Seattle, WA, United States","Hyderabad, India",5
+"Seattle, WA, United States","Madrid, Spain",1
+"Seattle, WA, United States","New York, NY, United States",9
+"Seattle, WA, United States","Zürich, Switzerland",5
+"Seattle, WA, United States",Hong Kong,1
+"Seattle, WA, United States","São Paulo, Brazil",4
+"Seattle, WA, United States","Helsinki, Finland",2
+"Seattle, WA, United States","Berlin, Germany",3
+"Seattle, WA, United States","Athens, Greece",1
+"Seattle, WA, United States","Buenos Aires, Argentina",1
+"Seattle, WA, United States","Dublin, Ireland",5
+"Seattle, WA, United States","Moskva, Russia",2
+"Seattle, WA, United States","København, Denmark",1
+"Seattle, WA, United States","Waterloo, ON, Canada",2
+"Seattle, WA, United States","San Bruno, CA, United States",4
+"Seattle, WA, United States","Chicago, IL, United States",4
+"Seattle, WA, United States","Irvine, CA, United States",2
+"Seattle, WA, United States","South San Francisco, CA, United States",1
+"Seattle, WA, United States","London, United Kingdom",9
+"Seattle, WA, United States","Etterbeek, Belgium",3
+"Seattle, WA, United States","Milan, Italy",2
+"Seattle, WA, United States","Sunnyvale, CA, United States",9
+"Seattle, WA, United States","Ann Arbor, MI, United States",2
+"Seattle, WA, United States","Boulder, CO, United States",5
+"Seattle, WA, United States","Bratislava, Slovakia",1
+"Seattle, WA, United States","Kirkland, WA, United States",6
+"Seattle, WA, United States",Singapore,8
+"Hyderabad, India","Austin, TX, United States",1
+"Hyderabad, India","Paris, France",4
+"Hyderabad, India","Lisbon, Portugal",1
+"Hyderabad, India","Oslo, Norway",2
+"Hyderabad, India","Seoul, South Korea",1
+"Hyderabad, India","Beijing, China",2
+"Hyderabad, India","Amsterdam, Netherlands",4
+"Hyderabad, India","San Francisco, CA, United States",5
+"Hyderabad, India",Dubai - United Arab Emirates,2
+"Hyderabad, India","Nairobi, Kenya",1
+"Hyderabad, India","Stockholm, Sweden",4
+"Hyderabad, India","Gurugram, India",3
+"Hyderabad, India","Shanghai, China",2
+"Hyderabad, India","Milano, Italy",1
+"Hyderabad, India","Budapest, Hungary",1
+"Hyderabad, India","Perth, Australia",1
+"Hyderabad, India","Mountain View, CA, United States",5
+"Hyderabad, India","Hamburg, Germany",2
+"Hyderabad, India","Bucharest, Romania",3
+"Hyderabad, India","Madrid, Spain",1
+"Hyderabad, India","Zürich, Switzerland",4
+"Hyderabad, India","New York, NY, United States",5
+"Hyderabad, India",Hong Kong,1
+"Hyderabad, India","São Paulo, Brazil",2
+"Hyderabad, India","Helsinki, Finland",2
+"Hyderabad, India","Berlin, Germany",2
+"Hyderabad, India","Athens, Greece",1
+"Hyderabad, India","Buenos Aires, Argentina",1
+"Hyderabad, India","Dublin, Ireland",3
+"Hyderabad, India","Moskva, Russia",2
+"Hyderabad, India","København, Denmark",1
+"Hyderabad, India","Waterloo, ON, Canada",1
+"Hyderabad, India","San Bruno, CA, United States",2
+"Hyderabad, India","Chicago, IL, United States",3
+"Hyderabad, India","South San Francisco, CA, United States",1
+"Hyderabad, India","London, United Kingdom",5
+"Hyderabad, India","Etterbeek, Belgium",2
+"Hyderabad, India","Milan, Italy",2
+"Hyderabad, India","Sunnyvale, CA, United States",5
+"Hyderabad, India","Boulder, CO, United States",2
+"Hyderabad, India","Bratislava, Slovakia",1
+"Hyderabad, India","Kirkland, WA, United States",2
+"Hyderabad, India",Singapore,4
+"Palo Alto, CA, USA","Austin, TX, United States",1
+"Palo Alto, CA, USA","San Francisco, CA, United States",1
+"Palo Alto, CA, USA","San Bruno, CA, United States",1
+"Palo Alto, CA, USA","London, United Kingdom",1
+"Palo Alto, CA, USA","New York, NY, United States",1
+"Palo Alto, CA, USA","Beijing, China",1
+"Palo Alto, CA, USA","São Paulo, Brazil",1
+"Palo Alto, CA, USA","Sunnyvale, CA, United States",1
+"Palo Alto, CA, USA","Buenos Aires, Argentina",1
+"Palo Alto, CA, USA","Ann Arbor, MI, United States",1
+"Palo Alto, CA, USA","Boulder, CO, United States",1
+"Palo Alto, CA, USA","Dublin, Ireland",1
+"Palo Alto, CA, USA","Bogotá, Colombia",1
+"Palo Alto, CA, USA","Mountain View, CA, United States",1
+"Palo Alto, CA, USA",Singapore,1
+"São Paulo, Brazil","Austin, TX, United States",5
+"São Paulo, Brazil","Paris, France",4
+"São Paulo, Brazil","Oslo, Norway",2
+"São Paulo, Brazil","Seoul, South Korea",3
+"São Paulo, Brazil","Beijing, China",5
+"São Paulo, Brazil","Amsterdam, Netherlands",2
+"São Paulo, Brazil","San Francisco, CA, United States",6
+"São Paulo, Brazil",Dubai - United Arab Emirates,1
+"São Paulo, Brazil","Stockholm, Sweden",3
+"São Paulo, Brazil","Gurugram, India",3
+"São Paulo, Brazil","Shanghai, China",3
+"São Paulo, Brazil","Milano, Italy",1
+"São Paulo, Brazil","Perth, Australia",2
+"São Paulo, Brazil","Mountain View, CA, United States",6
+"São Paulo, Brazil","Hamburg, Germany",2
+"São Paulo, Brazil","Bucharest, Romania",2
+"São Paulo, Brazil","Melbourne, Australia",1
+"São Paulo, Brazil","Moscow, ID, United States",1
+"São Paulo, Brazil","New York, NY, United States",6
+"São Paulo, Brazil","Zürich, Switzerland",4
+"São Paulo, Brazil",Hong Kong,1
+"São Paulo, Brazil","Helsinki, Finland",2
+"São Paulo, Brazil","Berlin, Germany",2
+"São Paulo, Brazil","Minneapolis, MN, United States",1
+"São Paulo, Brazil","Washington, DC, United States",1
+"São Paulo, Brazil","Buenos Aires, Argentina",1
+"São Paulo, Brazil","Dallas, TX, United States",1
+"São Paulo, Brazil","Dublin, Ireland",5
+"São Paulo, Brazil","Moskva, Russia",2
+"São Paulo, Brazil","København, Denmark",1
+"São Paulo, Brazil","Waterloo, ON, Canada",1
+"São Paulo, Brazil","San Bruno, CA, United States",2
+"São Paulo, Brazil","Chicago, IL, United States",3
+"São Paulo, Brazil","London, United Kingdom",6
+"São Paulo, Brazil","Etterbeek, Belgium",1
+"São Paulo, Brazil","Milan, Italy",2
+"São Paulo, Brazil","Sunnyvale, CA, United States",6
+"São Paulo, Brazil","Ann Arbor, MI, United States",4
+"São Paulo, Brazil","Boulder, CO, United States",3
+"São Paulo, Brazil","Bogotá, Colombia",2
+"São Paulo, Brazil","Kirkland, WA, United States",3
+"São Paulo, Brazil","Montreal, QC, Canada",1
+"São Paulo, Brazil","Toronto, ON, Canada",1
+"São Paulo, Brazil",Singapore,6
+"Berlin, Germany","Austin, TX, United States",1
+"Berlin, Germany","Paris, France",4
+"Berlin, Germany","Lisbon, Portugal",1
+"Berlin, Germany","Seoul, South Korea",3
+"Berlin, Germany","Oslo, Norway",2
+"Berlin, Germany","Beijing, China",2
+"Berlin, Germany","Portland, OR, United States",1
+"Berlin, Germany","Salt Lake City, UT, United States",1
+"Berlin, Germany","Amsterdam, Netherlands",2
+"Berlin, Germany","San Francisco, CA, United States",4
+"Berlin, Germany",Dubai - United Arab Emirates,2
+"Berlin, Germany","Nairobi, Kenya",1
+"Berlin, Germany","Stockholm, Sweden",3
+"Berlin, Germany","Gurugram, India",4
+"Berlin, Germany","Shanghai, China",3
+"Berlin, Germany","Milano, Italy",1
+"Berlin, Germany","Budapest, Hungary",1
+"Berlin, Germany","Perth, Australia",2
+"Berlin, Germany","Mountain View, CA, United States",4
+"Berlin, Germany","Bengaluru, India",1
+"Berlin, Germany","Hamburg, Germany",4
+"Berlin, Germany","Bucharest, Romania",2
+"Berlin, Germany","Melbourne, Australia",1
+"Berlin, Germany","Madrid, Spain",1
+"Berlin, Germany","Moscow, ID, United States",1
+"Berlin, Germany","New York, NY, United States",3
+"Berlin, Germany","Zürich, Switzerland",3
+"Berlin, Germany",Hong Kong,2
+"Berlin, Germany","Athens, Greece",1
+"Berlin, Germany","Minneapolis, MN, United States",1
+"Berlin, Germany","Washington, DC, United States",1
+"Berlin, Germany","Buenos Aires, Argentina",1
+"Berlin, Germany","Helsinki, Finland",2
+"Berlin, Germany","Dallas, TX, United States",1
+"Berlin, Germany","Dublin, Ireland",3
+"Berlin, Germany","Moskva, Russia",2
+"Berlin, Germany","København, Denmark",2
+"Berlin, Germany","Waterloo, ON, Canada",1
+"Berlin, Germany","San Bruno, CA, United States",1
+"Berlin, Germany","Chicago, IL, United States",4
+"Berlin, Germany","Irvine, CA, United States",1
+"Berlin, Germany","London, United Kingdom",4
+"Berlin, Germany","Etterbeek, Belgium",2
+"Berlin, Germany","Milan, Italy",3
+"Berlin, Germany","Sunnyvale, CA, United States",4
+"Berlin, Germany","Ann Arbor, MI, United States",1
+"Berlin, Germany","Boulder, CO, United States",2
+"Berlin, Germany","Bratislava, Slovakia",1
+"Berlin, Germany","Bogotá, Colombia",1
+"Berlin, Germany","Kirkland, WA, United States",2
+"Berlin, Germany","Montreal, QC, Canada",1
+"Berlin, Germany","Toronto, ON, Canada",1
+"Berlin, Germany",Singapore,3
+"MG, Brazil","Bengaluru, India",1
+"MG, Brazil","Irvine, CA, United States",1
+"MG, Brazil","South San Francisco, CA, United States",1
+"MG, Brazil","London, United Kingdom",1
+"MG, Brazil","Shanghai, China",1
+"MG, Brazil","New York, NY, United States",1
+"MG, Brazil","Sunnyvale, CA, United States",1
+"MG, Brazil","Dublin, Ireland",1
+"MG, Brazil","Mountain View, CA, United States",1
+"Minneapolis, MN, United States","Austin, TX, United States",1
+"Minneapolis, MN, United States","Toronto, ON, Canada",1
+"Minneapolis, MN, United States","Hamburg, Germany",1
+"Minneapolis, MN, United States","Melbourne, Australia",1
+"Minneapolis, MN, United States","Paris, France",1
+"Minneapolis, MN, United States","Moscow, ID, United States",1
+"Minneapolis, MN, United States","Oslo, Norway",1
+"Minneapolis, MN, United States","Seoul, South Korea",1
+"Minneapolis, MN, United States","New York, NY, United States",1
+"Minneapolis, MN, United States","Zürich, Switzerland",1
+"Minneapolis, MN, United States",Hong Kong,1
+"Minneapolis, MN, United States","Beijing, China",1
+"Minneapolis, MN, United States","Washington, DC, United States",1
+"Minneapolis, MN, United States","Helsinki, Finland",1
+"Minneapolis, MN, United States","Dallas, TX, United States",1
+"Minneapolis, MN, United States","Dublin, Ireland",1
+"Minneapolis, MN, United States","Moskva, Russia",1
+"Minneapolis, MN, United States","København, Denmark",1
+"Minneapolis, MN, United States","San Francisco, CA, United States",1
+"Minneapolis, MN, United States","Chicago, IL, United States",1
+"Minneapolis, MN, United States","Stockholm, Sweden",1
+"Minneapolis, MN, United States","Gurugram, India",1
+"Minneapolis, MN, United States","London, United Kingdom",1
+"Minneapolis, MN, United States","Shanghai, China",1
+"Minneapolis, MN, United States","Milan, Italy",1
+"Minneapolis, MN, United States","Sunnyvale, CA, United States",1
+"Minneapolis, MN, United States","Ann Arbor, MI, United States",1
+"Minneapolis, MN, United States","Bogotá, Colombia",1
+"Minneapolis, MN, United States","Perth, Australia",1
+"Minneapolis, MN, United States","Montreal, QC, Canada",1
+"Minneapolis, MN, United States","Mountain View, CA, United States",1
+"Minneapolis, MN, United States",Singapore,1
+"Washington, DC, United States","Austin, TX, United States",2
+"Washington, DC, United States","Toronto, ON, Canada",1
+"Washington, DC, United States","Hamburg, Germany",2
+"Washington, DC, United States","Melbourne, Australia",1
+"Washington, DC, United States","Paris, France",2
+"Washington, DC, United States","Moscow, ID, United States",1
+"Washington, DC, United States","Oslo, Norway",1
+"Washington, DC, United States","Seoul, South Korea",2
+"Washington, DC, United States","New York, NY, United States",1
+"Washington, DC, United States","Zürich, Switzerland",1
+"Washington, DC, United States",Hong Kong,1
+"Washington, DC, United States","Beijing, China",1
+"Washington, DC, United States","Helsinki, Finland",1
+"Washington, DC, United States","Dallas, TX, United States",1
+"Washington, DC, United States","Dublin, Ireland",2
+"Washington, DC, United States","Moskva, Russia",2
+"Washington, DC, United States","København, Denmark",1
+"Washington, DC, United States","San Francisco, CA, United States",1
+"Washington, DC, United States","Chicago, IL, United States",1
+"Washington, DC, United States","Stockholm, Sweden",1
+"Washington, DC, United States","Gurugram, India",1
+"Washington, DC, United States","London, United Kingdom",2
+"Washington, DC, United States","Shanghai, China",2
+"Washington, DC, United States","Milan, Italy",1
+"Washington, DC, United States","Sunnyvale, CA, United States",2
+"Washington, DC, United States","Ann Arbor, MI, United States",1
+"Washington, DC, United States","Bogotá, Colombia",1
+"Washington, DC, United States","Perth, Australia",1
+"Washington, DC, United States","Montreal, QC, Canada",1
+"Washington, DC, United States","Mountain View, CA, United States",2
+"Washington, DC, United States",Singapore,2
+"Buenos Aires, Argentina","Austin, TX, United States",1
+"Buenos Aires, Argentina","Hamburg, Germany",1
+"Buenos Aires, Argentina","Bucharest, Romania",1
+"Buenos Aires, Argentina","Paris, France",1
+"Buenos Aires, Argentina","Madrid, Spain",1
+"Buenos Aires, Argentina","Oslo, Norway",1
+"Buenos Aires, Argentina","Lisbon, Portugal",1
+"Buenos Aires, Argentina","New York, NY, United States",2
+"Buenos Aires, Argentina","Zürich, Switzerland",1
+"Buenos Aires, Argentina",Hong Kong,1
+"Buenos Aires, Argentina","Beijing, China",1
+"Buenos Aires, Argentina","Athens, Greece",1
+"Buenos Aires, Argentina","Helsinki, Finland",1
+"Buenos Aires, Argentina","Dublin, Ireland",2
+"Buenos Aires, Argentina","Amsterdam, Netherlands",1
+"Buenos Aires, Argentina","Moskva, Russia",1
+"Buenos Aires, Argentina","København, Denmark",1
+"Buenos Aires, Argentina","San Francisco, CA, United States",2
+"Buenos Aires, Argentina",Dubai - United Arab Emirates,1
+"Buenos Aires, Argentina","San Bruno, CA, United States",2
+"Buenos Aires, Argentina","Nairobi, Kenya",1
+"Buenos Aires, Argentina","Chicago, IL, United States",1
+"Buenos Aires, Argentina","Stockholm, Sweden",1
+"Buenos Aires, Argentina","Gurugram, India",1
+"Buenos Aires, Argentina","London, United Kingdom",2
+"Buenos Aires, Argentina","Etterbeek, Belgium",1
+"Buenos Aires, Argentina","Shanghai, China",1
+"Buenos Aires, Argentina","Milan, Italy",1
+"Buenos Aires, Argentina","Sunnyvale, CA, United States",2
+"Buenos Aires, Argentina","Ann Arbor, MI, United States",1
+"Buenos Aires, Argentina","Boulder, CO, United States",2
+"Buenos Aires, Argentina","Bratislava, Slovakia",1
+"Buenos Aires, Argentina","Budapest, Hungary",1
+"Buenos Aires, Argentina","Bogotá, Colombia",1
+"Buenos Aires, Argentina","Kirkland, WA, United States",1
+"Buenos Aires, Argentina","Mountain View, CA, United States",2
+"Buenos Aires, Argentina",Singapore,1
+"Moskva, Russia","Austin, TX, United States",3
+"Moskva, Russia","Paris, France",4
+"Moskva, Russia","Lisbon, Portugal",1
+"Moskva, Russia","Oslo, Norway",3
+"Moskva, Russia","Seoul, South Korea",2
+"Moskva, Russia","Beijing, China",2
+"Moskva, Russia","Amsterdam, Netherlands",2
+"Moskva, Russia","San Francisco, CA, United States",3
+"Moskva, Russia",Dubai - United Arab Emirates,1
+"Moskva, Russia","Nairobi, Kenya",1
+"Moskva, Russia","Stockholm, Sweden",3
+"Moskva, Russia","Gurugram, India",2
+"Moskva, Russia","Shanghai, China",3
+"Moskva, Russia","Budapest, Hungary",1
+"Moskva, Russia","Perth, Australia",1
+"Moskva, Russia","Mountain View, CA, United States",4
+"Moskva, Russia","Hamburg, Germany",3
+"Moskva, Russia","Bucharest, Romania",2
+"Moskva, Russia","Melbourne, Australia",1
+"Moskva, Russia","Madrid, Spain",1
+"Moskva, Russia","Moscow, ID, United States",1
+"Moskva, Russia","Zürich, Switzerland",3
+"Moskva, Russia","New York, NY, United States",3
+"Moskva, Russia",Hong Kong,2
+"Moskva, Russia","Athens, Greece",1
+"Moskva, Russia","Helsinki, Finland",3
+"Moskva, Russia","Dallas, TX, United States",1
+"Moskva, Russia","Dublin, Ireland",3
+"Moskva, Russia","København, Denmark",2
+"Moskva, Russia","San Bruno, CA, United States",1
+"Moskva, Russia","Chicago, IL, United States",3
+"Moskva, Russia","London, United Kingdom",4
+"Moskva, Russia","Etterbeek, Belgium",2
+"Moskva, Russia","Milan, Italy",2
+"Moskva, Russia","Sunnyvale, CA, United States",4
+"Moskva, Russia","Ann Arbor, MI, United States",1
+"Moskva, Russia","Boulder, CO, United States",2
+"Moskva, Russia","Bratislava, Slovakia",1
+"Moskva, Russia","Bogotá, Colombia",1
+"Moskva, Russia","Kirkland, WA, United States",1
+"Moskva, Russia","Montreal, QC, Canada",1
+"Moskva, Russia","Toronto, ON, Canada",1
+"Moskva, Russia",Singapore,3
+"London, United Kingdom","Austin, TX, United States",6
+"London, United Kingdom","Paris, France",8
+"London, United Kingdom","Lisbon, Portugal",1
+"London, United Kingdom","Seoul, South Korea",5
+"London, United Kingdom","Oslo, Norway",3
+"London, United Kingdom","Beijing, China",6
+"London, United Kingdom","Portland, OR, United States",1
+"London, United Kingdom","Salt Lake City, UT, United States",1
+"London, United Kingdom","Amsterdam, Netherlands",4
+"London, United Kingdom","San Francisco, CA, United States",12
+"London, United Kingdom",Dubai - United Arab Emirates,2
+"London, United Kingdom","Nairobi, Kenya",1
+"London, United Kingdom","Stockholm, Sweden",5
+"London, United Kingdom","Gurugram, India",6
+"London, United Kingdom","Shanghai, China",8
+"London, United Kingdom","Milano, Italy",1
+"London, United Kingdom","Budapest, Hungary",1
+"London, United Kingdom","Perth, Australia",2
+"London, United Kingdom","Mountain View, CA, United States",16
+"London, United Kingdom","Bengaluru, India",3
+"London, United Kingdom","Hamburg, Germany",5
+"London, United Kingdom","Bucharest, Romania",3
+"London, United Kingdom","Melbourne, Australia",1
+"London, United Kingdom","Madrid, Spain",1
+"London, United Kingdom","Moscow, ID, United States",1
+"London, United Kingdom","New York, NY, United States",13
+"London, United Kingdom","Zürich, Switzerland",6
+"London, United Kingdom",Hong Kong,3
+"London, United Kingdom","Athens, Greece",1
+"London, United Kingdom","Helsinki, Finland",3
+"London, United Kingdom","Dallas, TX, United States",1
+"London, United Kingdom","Dublin, Ireland",10
+"London, United Kingdom","København, Denmark",2
+"London, United Kingdom","Waterloo, ON, Canada",3
+"London, United Kingdom","San Bruno, CA, United States",5
+"London, United Kingdom","Chicago, IL, United States",5
+"London, United Kingdom","Irvine, CA, United States",3
+"London, United Kingdom","South San Francisco, CA, United States",2
+"London, United Kingdom","Bangkok, Thailand",1
+"London, United Kingdom","Etterbeek, Belgium",3
+"London, United Kingdom","Milan, Italy",3
+"London, United Kingdom","Sunnyvale, CA, United States",15
+"London, United Kingdom","Ann Arbor, MI, United States",4
+"London, United Kingdom","Boulder, CO, United States",6
+"London, United Kingdom","Bratislava, Slovakia",1
+"London, United Kingdom","Bogotá, Colombia",2
+"London, United Kingdom","Kirkland, WA, United States",7
+"London, United Kingdom","Montreal, QC, Canada",1
+"London, United Kingdom","Toronto, ON, Canada",1
+"London, United Kingdom",Singapore,12
+"Etterbeek, Belgium","Austin, TX, United States",1
+"Etterbeek, Belgium","Paris, France",3
+"Etterbeek, Belgium","Lisbon, Portugal",1
+"Etterbeek, Belgium","Seoul, South Korea",1
+"Etterbeek, Belgium","Oslo, Norway",2
+"Etterbeek, Belgium","Beijing, China",1
+"Etterbeek, Belgium","Portland, OR, United States",1
+"Etterbeek, Belgium","Salt Lake City, UT, United States",1
+"Etterbeek, Belgium","Amsterdam, Netherlands",2
+"Etterbeek, Belgium","San Francisco, CA, United States",3
+"Etterbeek, Belgium",Dubai - United Arab Emirates,1
+"Etterbeek, Belgium","Nairobi, Kenya",1
+"Etterbeek, Belgium","Stockholm, Sweden",2
+"Etterbeek, Belgium","Gurugram, India",2
+"Etterbeek, Belgium","Shanghai, China",1
+"Etterbeek, Belgium","Budapest, Hungary",1
+"Etterbeek, Belgium","Mountain View, CA, United States",3
+"Etterbeek, Belgium","Bengaluru, India",1
+"Etterbeek, Belgium","Hamburg, Germany",2
+"Etterbeek, Belgium","Bucharest, Romania",2
+"Etterbeek, Belgium","Madrid, Spain",1
+"Etterbeek, Belgium","Zürich, Switzerland",2
+"Etterbeek, Belgium","New York, NY, United States",2
+"Etterbeek, Belgium",Hong Kong,1
+"Etterbeek, Belgium","Helsinki, Finland",2
+"Etterbeek, Belgium","Athens, Greece",1
+"Etterbeek, Belgium","Dublin, Ireland",1
+"Etterbeek, Belgium","København, Denmark",1
+"Etterbeek, Belgium","San Bruno, CA, United States",1
+"Etterbeek, Belgium","Chicago, IL, United States",3
+"Etterbeek, Belgium","Irvine, CA, United States",1
+"Etterbeek, Belgium","Milan, Italy",1
+"Etterbeek, Belgium","Sunnyvale, CA, United States",3
+"Etterbeek, Belgium","Boulder, CO, United States",3
+"Etterbeek, Belgium","Bratislava, Slovakia",1
+"Etterbeek, Belgium","Kirkland, WA, United States",1
+"Etterbeek, Belgium",Singapore,2
+"Sunnyvale, CA, United States","Austin, TX, United States",6
+"Sunnyvale, CA, United States","Paris, France",8
+"Sunnyvale, CA, United States","Lisbon, Portugal",1
+"Sunnyvale, CA, United States","Seoul, South Korea",5
+"Sunnyvale, CA, United States","Oslo, Norway",3
+"Sunnyvale, CA, United States","Beijing, China",7
+"Sunnyvale, CA, United States","Portland, OR, United States",1
+"Sunnyvale, CA, United States","Salt Lake City, UT, United States",1
+"Sunnyvale, CA, United States","Amsterdam, Netherlands",4
+"Sunnyvale, CA, United States","San Francisco, CA, United States",13
+"Sunnyvale, CA, United States",Dubai - United Arab Emirates,2
+"Sunnyvale, CA, United States","Nairobi, Kenya",1
+"Sunnyvale, CA, United States","Stockholm, Sweden",5
+"Sunnyvale, CA, United States","Gurugram, India",6
+"Sunnyvale, CA, United States","Shanghai, China",9
+"Sunnyvale, CA, United States","Milano, Italy",1
+"Sunnyvale, CA, United States","Budapest, Hungary",1
+"Sunnyvale, CA, United States","Perth, Australia",2
+"Sunnyvale, CA, United States","Mountain View, CA, United States",16
+"Sunnyvale, CA, United States","Bengaluru, India",3
+"Sunnyvale, CA, United States","Hamburg, Germany",5
+"Sunnyvale, CA, United States","Bucharest, Romania",3
+"Sunnyvale, CA, United States","Melbourne, Australia",1
+"Sunnyvale, CA, United States","Madrid, Spain",1
+"Sunnyvale, CA, United States","Moscow, ID, United States",1
+"Sunnyvale, CA, United States","New York, NY, United States",14
+"Sunnyvale, CA, United States","Zürich, Switzerland",7
+"Sunnyvale, CA, United States",Hong Kong,4
+"Sunnyvale, CA, United States","Athens, Greece",1
+"Sunnyvale, CA, United States","Helsinki, Finland",3
+"Sunnyvale, CA, United States","Dallas, TX, United States",1
+"Sunnyvale, CA, United States","Dublin, Ireland",11
+"Sunnyvale, CA, United States","København, Denmark",2
+"Sunnyvale, CA, United States","Waterloo, ON, Canada",3
+"Sunnyvale, CA, United States","Kraków, Poland",1
+"Sunnyvale, CA, United States","San Bruno, CA, United States",6
+"Sunnyvale, CA, United States","Chicago, IL, United States",6
+"Sunnyvale, CA, United States","Irvine, CA, United States",3
+"Sunnyvale, CA, United States","South San Francisco, CA, United States",2
+"Sunnyvale, CA, United States","Bangkok, Thailand",1
+"Sunnyvale, CA, United States","Milan, Italy",3
+"Sunnyvale, CA, United States","Ann Arbor, MI, United States",4
+"Sunnyvale, CA, United States","Boulder, CO, United States",7
+"Sunnyvale, CA, United States","Bratislava, Slovakia",1
+"Sunnyvale, CA, United States","Bogotá, Colombia",2
+"Sunnyvale, CA, United States","Kirkland, WA, United States",7
+"Sunnyvale, CA, United States","Montreal, QC, Canada",1
+"Sunnyvale, CA, United States","Toronto, ON, Canada",1
+"Sunnyvale, CA, United States",Singapore,12
+"Bratislava, Slovakia","Hamburg, Germany",1
+"Bratislava, Slovakia","Bucharest, Romania",1
+"Bratislava, Slovakia","Paris, France",1
+"Bratislava, Slovakia","Madrid, Spain",1
+"Bratislava, Slovakia","Oslo, Norway",1
+"Bratislava, Slovakia","Lisbon, Portugal",1
+"Bratislava, Slovakia","New York, NY, United States",1
+"Bratislava, Slovakia","Zürich, Switzerland",1
+"Bratislava, Slovakia",Hong Kong,1
+"Bratislava, Slovakia","Athens, Greece",1
+"Bratislava, Slovakia","Helsinki, Finland",1
+"Bratislava, Slovakia","Dublin, Ireland",1
+"Bratislava, Slovakia","Amsterdam, Netherlands",1
+"Bratislava, Slovakia","København, Denmark",1
+"Bratislava, Slovakia","San Francisco, CA, United States",1
+"Bratislava, Slovakia",Dubai - United Arab Emirates,1
+"Bratislava, Slovakia","San Bruno, CA, United States",1
+"Bratislava, Slovakia","Nairobi, Kenya",1
+"Bratislava, Slovakia","Chicago, IL, United States",1
+"Bratislava, Slovakia","Stockholm, Sweden",1
+"Bratislava, Slovakia","Gurugram, India",1
+"Bratislava, Slovakia","Shanghai, China",1
+"Bratislava, Slovakia","Milan, Italy",1
+"Bratislava, Slovakia","Boulder, CO, United States",1
+"Bratislava, Slovakia","Budapest, Hungary",1
+"Bratislava, Slovakia","Kirkland, WA, United States",1
+"Bratislava, Slovakia","Mountain View, CA, United States",1
+"Toronto, ON, Canada","Austin, TX, United States",1
+"Toronto, ON, Canada","Hamburg, Germany",1
+"Toronto, ON, Canada","Melbourne, Australia",1
+"Toronto, ON, Canada","Paris, France",1
+"Toronto, ON, Canada","Moscow, ID, United States",1
+"Toronto, ON, Canada","Oslo, Norway",1
+"Toronto, ON, Canada","Seoul, South Korea",1
+"Toronto, ON, Canada","New York, NY, United States",1
+"Toronto, ON, Canada","Zürich, Switzerland",1
+"Toronto, ON, Canada",Hong Kong,1
+"Toronto, ON, Canada","Beijing, China",1
+"Toronto, ON, Canada","Helsinki, Finland",1
+"Toronto, ON, Canada","Dallas, TX, United States",1
+"Toronto, ON, Canada","Dublin, Ireland",1
+"Toronto, ON, Canada","København, Denmark",1
+"Toronto, ON, Canada","San Francisco, CA, United States",1
+"Toronto, ON, Canada","Chicago, IL, United States",1
+"Toronto, ON, Canada","Stockholm, Sweden",1
+"Toronto, ON, Canada","Gurugram, India",1
+"Toronto, ON, Canada","Shanghai, China",1
+"Toronto, ON, Canada","Milan, Italy",1
+"Toronto, ON, Canada","Ann Arbor, MI, United States",1
+"Toronto, ON, Canada","Bogotá, Colombia",1
+"Toronto, ON, Canada","Perth, Australia",1
+"Toronto, ON, Canada","Montreal, QC, Canada",1
+"Toronto, ON, Canada","Mountain View, CA, United States",1
+"Toronto, ON, Canada",Singapore,1
+"Austin, TX, United States","Paris, France",4
+"Austin, TX, United States","Seoul, South Korea",3
+"Austin, TX, United States","Oslo, Norway",2
+"Austin, TX, United States","Beijing, China",4
+"Austin, TX, United States","Amsterdam, Netherlands",1
+"Austin, TX, United States","San Francisco, CA, United States",5
+"Austin, TX, United States","Stockholm, Sweden",2
+"Austin, TX, United States","Gurugram, India",2
+"Austin, TX, United States","Shanghai, China",3
+"Austin, TX, United States","Perth, Australia",1
+"Austin, TX, United States","Mountain View, CA, United States",6
+"Austin, TX, United States","Hamburg, Germany",2
+"Austin, TX, United States","Bucharest, Romania",1
+"Austin, TX, United States","Melbourne, Australia",1
+"Austin, TX, United States","Moscow, ID, United States",1
+"Austin, TX, United States","New York, NY, United States",5
+"Austin, TX, United States","Zürich, Switzerland",3
+"Austin, TX, United States",Hong Kong,1
+"Austin, TX, United States","Helsinki, Finland",2
+"Austin, TX, United States","Dallas, TX, United States",1
+"Austin, TX, United States","Dublin, Ireland",5
+"Austin, TX, United States","København, Denmark",1
+"Austin, TX, United States","San Bruno, CA, United States",2
+"Austin, TX, United States","Chicago, IL, United States",2
+"Austin, TX, United States","Milan, Italy",1
+"Austin, TX, United States","Ann Arbor, MI, United States",4
+"Austin, TX, United States","Boulder, CO, United States",3
+"Austin, TX, United States","Bogotá, Colombia",2
+"Austin, TX, United States","Kirkland, WA, United States",2
+"Austin, TX, United States","Montreal, QC, Canada",1
+"Austin, TX, United States",Singapore,6
+"Paris, France","Lisbon, Portugal",1
+"Paris, France","Seoul, South Korea",4
+"Paris, France","Oslo, Norway",3
+"Paris, France","Beijing, China",3
+"Paris, France","Portland, OR, United States",1
+"Paris, France","Salt Lake City, UT, United States",1
+"Paris, France","Amsterdam, Netherlands",4
+"Paris, France","San Francisco, CA, United States",7
+"Paris, France",Dubai - United Arab Emirates,2
+"Paris, France","Nairobi, Kenya",1
+"Paris, France","Stockholm, Sweden",5
+"Paris, France","Gurugram, India",6
+"Paris, France","Shanghai, China",5
+"Paris, France","Milano, Italy",1
+"Paris, France","Budapest, Hungary",1
+"Paris, France","Perth, Australia",2
+"Paris, France","Mountain View, CA, United States",8
+"Paris, France","Bengaluru, India",1
+"Paris, France","Hamburg, Germany",5
+"Paris, France","Bucharest, Romania",3
+"Paris, France","Melbourne, Australia",1
+"Paris, France","Madrid, Spain",1
+"Paris, France","Moscow, ID, United States",1
+"Paris, France","Zürich, Switzerland",5
+"Paris, France","New York, NY, United States",6
+"Paris, France",Hong Kong,2
+"Paris, France","Athens, Greece",1
+"Paris, France","Helsinki, Finland",3
+"Paris, France","Dallas, TX, United States",1
+"Paris, France","Dublin, Ireland",5
+"Paris, France","København, Denmark",2
+"Paris, France","Waterloo, ON, Canada",1
+"Paris, France","San Bruno, CA, United States",2
+"Paris, France","Chicago, IL, United States",5
+"Paris, France","Irvine, CA, United States",1
+"Paris, France","South San Francisco, CA, United States",1
+"Paris, France","Milan, Italy",3
+"Paris, France","Ann Arbor, MI, United States",2
+"Paris, France","Boulder, CO, United States",3
+"Paris, France","Bogotá, Colombia",1
+"Paris, France","Kirkland, WA, United States",3
+"Paris, France","Montreal, QC, Canada",1
+"Paris, France",Singapore,7
+"Lisbon, Portugal","Hamburg, Germany",1
+"Lisbon, Portugal","Bucharest, Romania",1
+"Lisbon, Portugal","Madrid, Spain",1
+"Lisbon, Portugal","Oslo, Norway",1
+"Lisbon, Portugal","New York, NY, United States",1
+"Lisbon, Portugal","Zürich, Switzerland",1
+"Lisbon, Portugal",Hong Kong,1
+"Lisbon, Portugal","Athens, Greece",1
+"Lisbon, Portugal","Helsinki, Finland",1
+"Lisbon, Portugal","Dublin, Ireland",1
+"Lisbon, Portugal","Amsterdam, Netherlands",1
+"Lisbon, Portugal","København, Denmark",1
+"Lisbon, Portugal","San Francisco, CA, United States",1
+"Lisbon, Portugal",Dubai - United Arab Emirates,1
+"Lisbon, Portugal","San Bruno, CA, United States",1
+"Lisbon, Portugal","Nairobi, Kenya",1
+"Lisbon, Portugal","Chicago, IL, United States",1
+"Lisbon, Portugal","Stockholm, Sweden",1
+"Lisbon, Portugal","Gurugram, India",1
+"Lisbon, Portugal","Shanghai, China",1
+"Lisbon, Portugal","Milan, Italy",1
+"Lisbon, Portugal","Boulder, CO, United States",1
+"Lisbon, Portugal","Budapest, Hungary",1
+"Lisbon, Portugal","Kirkland, WA, United States",1
+"Lisbon, Portugal","Mountain View, CA, United States",1
+"Seoul, South Korea","Oslo, Norway",1
+"Seoul, South Korea","Beijing, China",3
+"Seoul, South Korea","Portland, OR, United States",1
+"Seoul, South Korea","Salt Lake City, UT, United States",1
+"Seoul, South Korea","Amsterdam, Netherlands",1
+"Seoul, South Korea","San Francisco, CA, United States",4
+"Seoul, South Korea",Dubai - United Arab Emirates,1
+"Seoul, South Korea","Stockholm, Sweden",2
+"Seoul, South Korea","Gurugram, India",3
+"Seoul, South Korea","Shanghai, China",3
+"Seoul, South Korea","Milano, Italy",1
+"Seoul, South Korea","Perth, Australia",2
+"Seoul, South Korea","Mountain View, CA, United States",5
+"Seoul, South Korea","Bengaluru, India",1
+"Seoul, South Korea","Hamburg, Germany",4
+"Seoul, South Korea","Melbourne, Australia",1
+"Seoul, South Korea","Bucharest, Romania",1
+"Seoul, South Korea","Moscow, ID, United States",1
+"Seoul, South Korea","New York, NY, United States",3
+"Seoul, South Korea","Zürich, Switzerland",2
+"Seoul, South Korea",Hong Kong,1
+"Seoul, South Korea","Helsinki, Finland",1
+"Seoul, South Korea","Dallas, TX, United States",1
+"Seoul, South Korea","Dublin, Ireland",4
+"Seoul, South Korea","København, Denmark",1
+"Seoul, South Korea","Waterloo, ON, Canada",1
+"Seoul, South Korea","San Bruno, CA, United States",1
+"Seoul, South Korea","Chicago, IL, United States",3
+"Seoul, South Korea","Irvine, CA, United States",1
+"Seoul, South Korea","Milan, Italy",2
+"Seoul, South Korea","Ann Arbor, MI, United States",2
+"Seoul, South Korea","Boulder, CO, United States",2
+"Seoul, South Korea","Bogotá, Colombia",1
+"Seoul, South Korea","Kirkland, WA, United States",2
+"Seoul, South Korea","Montreal, QC, Canada",1
+"Seoul, South Korea",Singapore,5
+"Oslo, Norway","Beijing, China",2
+"Oslo, Norway","Amsterdam, Netherlands",2
+"Oslo, Norway","San Francisco, CA, United States",3
+"Oslo, Norway",Dubai - United Arab Emirates,1
+"Oslo, Norway","Nairobi, Kenya",1
+"Oslo, Norway","Stockholm, Sweden",3
+"Oslo, Norway","Gurugram, India",2
+"Oslo, Norway","Shanghai, China",2
+"Oslo, Norway","Budapest, Hungary",1
+"Oslo, Norway","Perth, Australia",1
+"Oslo, Norway","Mountain View, CA, United States",3
+"Oslo, Norway","Hamburg, Germany",2
+"Oslo, Norway","Bucharest, Romania",2
+"Oslo, Norway","Melbourne, Australia",1
+"Oslo, Norway","Moscow, ID, United States",1
+"Oslo, Norway","Madrid, Spain",1
+"Oslo, Norway","Zürich, Switzerland",3
+"Oslo, Norway","New York, NY, United States",3
+"Oslo, Norway",Hong Kong,2
+"Oslo, Norway","Helsinki, Finland",3
+"Oslo, Norway","Athens, Greece",1
+"Oslo, Norway","Dallas, TX, United States",1
+"Oslo, Norway","Dublin, Ireland",2
+"Oslo, Norway","København, Denmark",2
+"Oslo, Norway","San Bruno, CA, United States",1
+"Oslo, Norway","Chicago, IL, United States",3
+"Oslo, Norway","Milan, Italy",2
+"Oslo, Norway","Ann Arbor, MI, United States",1
+"Oslo, Norway","Boulder, CO, United States",2
+"Oslo, Norway","Bogotá, Colombia",1
+"Oslo, Norway","Kirkland, WA, United States",1
+"Oslo, Norway","Montreal, QC, Canada",1
+"Oslo, Norway",Singapore,2
+"Beijing, China","Amsterdam, Netherlands",2
+"Beijing, China","San Francisco, CA, United States",7
+"Beijing, China",Dubai - United Arab Emirates,1
+"Beijing, China","Stockholm, Sweden",3
+"Beijing, China","Gurugram, India",2
+"Beijing, China","Shanghai, China",4
+"Beijing, China","Milano, Italy",1
+"Beijing, China","Perth, Australia",2
+"Beijing, China","Mountain View, CA, United States",7
+"Beijing, China","Hamburg, Germany",2
+"Beijing, China","Bucharest, Romania",2
+"Beijing, China","Melbourne, Australia",1
+"Beijing, China","Moscow, ID, United States",1
+"Beijing, China","New York, NY, United States",7
+"Beijing, China","Zürich, Switzerland",3
+"Beijing, China",Hong Kong,3
+"Beijing, China","Helsinki, Finland",2
+"Beijing, China","Dallas, TX, United States",1
+"Beijing, China","Dublin, Ireland",5
+"Beijing, China","København, Denmark",1
+"Beijing, China","Waterloo, ON, Canada",2
+"Beijing, China","Kraków, Poland",1
+"Beijing, China","San Bruno, CA, United States",3
+"Beijing, China","Chicago, IL, United States",4
+"Beijing, China","Bangkok, Thailand",1
+"Beijing, China","Milan, Italy",2
+"Beijing, China","Ann Arbor, MI, United States",3
+"Beijing, China","Boulder, CO, United States",4
+"Beijing, China","Bogotá, Colombia",2
+"Beijing, China","Kirkland, WA, United States",3
+"Beijing, China","Montreal, QC, Canada",1
+"Beijing, China",Singapore,6
+"Portland, OR, United States","Bengaluru, India",1
+"Portland, OR, United States","San Francisco, CA, United States",1
+"Portland, OR, United States","Hamburg, Germany",1
+"Portland, OR, United States","Chicago, IL, United States",1
+"Portland, OR, United States","Gurugram, India",1
+"Portland, OR, United States","Irvine, CA, United States",1
+"Portland, OR, United States","Salt Lake City, UT, United States",1
+"Portland, OR, United States","Boulder, CO, United States",1
+"Portland, OR, United States","Mountain View, CA, United States",1
+"Portland, OR, United States",Singapore,1
+"Salt Lake City, UT, United States","Bengaluru, India",1
+"Salt Lake City, UT, United States","San Francisco, CA, United States",1
+"Salt Lake City, UT, United States","Hamburg, Germany",1
+"Salt Lake City, UT, United States","Chicago, IL, United States",1
+"Salt Lake City, UT, United States","Gurugram, India",1
+"Salt Lake City, UT, United States","Irvine, CA, United States",1
+"Salt Lake City, UT, United States","Boulder, CO, United States",1
+"Salt Lake City, UT, United States","Mountain View, CA, United States",1
+"Salt Lake City, UT, United States",Singapore,1
+"Amsterdam, Netherlands","San Francisco, CA, United States",4
+"Amsterdam, Netherlands",Dubai - United Arab Emirates,2
+"Amsterdam, Netherlands","Nairobi, Kenya",1
+"Amsterdam, Netherlands","Stockholm, Sweden",4
+"Amsterdam, Netherlands","Gurugram, India",3
+"Amsterdam, Netherlands","Shanghai, China",2
+"Amsterdam, Netherlands","Milano, Italy",1
+"Amsterdam, Netherlands","Budapest, Hungary",1
+"Amsterdam, Netherlands","Perth, Australia",1
+"Amsterdam, Netherlands","Mountain View, CA, United States",4
+"Amsterdam, Netherlands","Hamburg, Germany",2
+"Amsterdam, Netherlands","Bucharest, Romania",3
+"Amsterdam, Netherlands","Madrid, Spain",1
+"Amsterdam, Netherlands","Zürich, Switzerland",3
+"Amsterdam, Netherlands","New York, NY, United States",4
+"Amsterdam, Netherlands",Hong Kong,1
+"Amsterdam, Netherlands","Helsinki, Finland",2
+"Amsterdam, Netherlands","Athens, Greece",1
+"Amsterdam, Netherlands","Dublin, Ireland",2
+"Amsterdam, Netherlands","København, Denmark",1
+"Amsterdam, Netherlands","Waterloo, ON, Canada",1
+"Amsterdam, Netherlands","San Bruno, CA, United States",2
+"Amsterdam, Netherlands","Chicago, IL, United States",3
+"Amsterdam, Netherlands","South San Francisco, CA, United States",1
+"Amsterdam, Netherlands","Milan, Italy",2
+"Amsterdam, Netherlands","Boulder, CO, United States",2
+"Amsterdam, Netherlands","Kirkland, WA, United States",2
+"Amsterdam, Netherlands",Singapore,3
+"San Francisco, CA, United States",Dubai - United Arab Emirates,2
+"San Francisco, CA, United States","Nairobi, Kenya",1
+"San Francisco, CA, United States","Stockholm, Sweden",5
+"San Francisco, CA, United States","Gurugram, India",6
+"San Francisco, CA, United States","Shanghai, China",7
+"San Francisco, CA, United States","Milano, Italy",1
+"San Francisco, CA, United States","Budapest, Hungary",1
+"San Francisco, CA, United States","Perth, Australia",2
+"San Francisco, CA, United States","Mountain View, CA, United States",14
+"San Francisco, CA, United States","Bengaluru, India",2
+"San Francisco, CA, United States","Hamburg, Germany",4
+"San Francisco, CA, United States","Bucharest, Romania",3
+"San Francisco, CA, United States","Melbourne, Australia",1
+"San Francisco, CA, United States","Madrid, Spain",1
+"San Francisco, CA, United States","Moscow, ID, United States",1
+"San Francisco, CA, United States","New York, NY, United States",13
+"San Francisco, CA, United States","Zürich, Switzerland",6
+"San Francisco, CA, United States",Hong Kong,4
+"San Francisco, CA, United States","Athens, Greece",1
+"San Francisco, CA, United States","Helsinki, Finland",3
+"San Francisco, CA, United States","Dallas, TX, United States",1
+"San Francisco, CA, United States","Dublin, Ireland",8
+"San Francisco, CA, United States","København, Denmark",2
+"San Francisco, CA, United States","Waterloo, ON, Canada",3
+"San Francisco, CA, United States","Kraków, Poland",1
+"San Francisco, CA, United States","San Bruno, CA, United States",6
+"San Francisco, CA, United States","Chicago, IL, United States",6
+"San Francisco, CA, United States","Irvine, CA, United States",2
+"San Francisco, CA, United States","South San Francisco, CA, United States",1
+"San Francisco, CA, United States","Bangkok, Thailand",1
+"San Francisco, CA, United States","Milan, Italy",3
+"San Francisco, CA, United States","Ann Arbor, MI, United States",4
+"San Francisco, CA, United States","Boulder, CO, United States",7
+"San Francisco, CA, United States","Bogotá, Colombia",2
+"San Francisco, CA, United States","Kirkland, WA, United States",7
+"San Francisco, CA, United States","Montreal, QC, Canada",1
+"San Francisco, CA, United States",Singapore,11
+Dubai - United Arab Emirates,"Hamburg, Germany",2
+Dubai - United Arab Emirates,"Bucharest, Romania",2
+Dubai - United Arab Emirates,"Madrid, Spain",1
+Dubai - United Arab Emirates,"Zürich, Switzerland",2
+Dubai - United Arab Emirates,"New York, NY, United States",2
+Dubai - United Arab Emirates,Hong Kong,1
+Dubai - United Arab Emirates,"Athens, Greece",1
+Dubai - United Arab Emirates,"Helsinki, Finland",1
+Dubai - United Arab Emirates,"Dublin, Ireland",2
+Dubai - United Arab Emirates,"København, Denmark",1
+Dubai - United Arab Emirates,"Waterloo, ON, Canada",1
+Dubai - United Arab Emirates,"San Bruno, CA, United States",1
+Dubai - United Arab Emirates,"Nairobi, Kenya",1
+Dubai - United Arab Emirates,"Chicago, IL, United States",2
+Dubai - United Arab Emirates,"Stockholm, Sweden",2
+Dubai - United Arab Emirates,"Gurugram, India",2
+Dubai - United Arab Emirates,"Shanghai, China",2
+Dubai - United Arab Emirates,"Milan, Italy",2
+Dubai - United Arab Emirates,"Boulder, CO, United States",1
+Dubai - United Arab Emirates,"Milano, Italy",1
+Dubai - United Arab Emirates,"Budapest, Hungary",1
+Dubai - United Arab Emirates,"Kirkland, WA, United States",2
+Dubai - United Arab Emirates,"Perth, Australia",1
+Dubai - United Arab Emirates,"Mountain View, CA, United States",2
+Dubai - United Arab Emirates,Singapore,1
+"Nairobi, Kenya","Hamburg, Germany",1
+"Nairobi, Kenya","Bucharest, Romania",1
+"Nairobi, Kenya","Madrid, Spain",1
+"Nairobi, Kenya","New York, NY, United States",1
+"Nairobi, Kenya","Zürich, Switzerland",1
+"Nairobi, Kenya",Hong Kong,1
+"Nairobi, Kenya","Athens, Greece",1
+"Nairobi, Kenya","Helsinki, Finland",1
+"Nairobi, Kenya","Dublin, Ireland",1
+"Nairobi, Kenya","København, Denmark",1
+"Nairobi, Kenya","San Bruno, CA, United States",1
+"Nairobi, Kenya","Chicago, IL, United States",1
+"Nairobi, Kenya","Stockholm, Sweden",1
+"Nairobi, Kenya","Gurugram, India",1
+"Nairobi, Kenya","Shanghai, China",1
+"Nairobi, Kenya","Milan, Italy",1
+"Nairobi, Kenya","Boulder, CO, United States",1
+"Nairobi, Kenya","Budapest, Hungary",1
+"Nairobi, Kenya","Kirkland, WA, United States",1
+"Nairobi, Kenya","Mountain View, CA, United States",1
+"Stockholm, Sweden","Gurugram, India",4
+"Stockholm, Sweden","Shanghai, China",3
+"Stockholm, Sweden","Milano, Italy",1
+"Stockholm, Sweden","Budapest, Hungary",1
+"Stockholm, Sweden","Perth, Australia",2
+"Stockholm, Sweden","Mountain View, CA, United States",5
+"Stockholm, Sweden","Hamburg, Germany",3
+"Stockholm, Sweden","Bucharest, Romania",3
+"Stockholm, Sweden","Melbourne, Australia",1
+"Stockholm, Sweden","Madrid, Spain",1
+"Stockholm, Sweden","Moscow, ID, United States",1
+"Stockholm, Sweden","Zürich, Switzerland",4
+"Stockholm, Sweden","New York, NY, United States",5
+"Stockholm, Sweden",Hong Kong,2
+"Stockholm, Sweden","Athens, Greece",1
+"Stockholm, Sweden","Helsinki, Finland",3
+"Stockholm, Sweden","Dallas, TX, United States",1
+"Stockholm, Sweden","Dublin, Ireland",3
+"Stockholm, Sweden","København, Denmark",2
+"Stockholm, Sweden","Waterloo, ON, Canada",1
+"Stockholm, Sweden","San Bruno, CA, United States",2
+"Stockholm, Sweden","Chicago, IL, United States",4
+"Stockholm, Sweden","South San Francisco, CA, United States",1
+"Stockholm, Sweden","Milan, Italy",3
+"Stockholm, Sweden","Ann Arbor, MI, United States",1
+"Stockholm, Sweden","Boulder, CO, United States",2
+"Stockholm, Sweden","Bogotá, Colombia",1
+"Stockholm, Sweden","Kirkland, WA, United States",2
+"Stockholm, Sweden","Montreal, QC, Canada",1
+"Stockholm, Sweden",Singapore,4
+"Gurugram, India","Shanghai, China",4
+"Gurugram, India","Milano, Italy",1
+"Gurugram, India","Budapest, Hungary",1
+"Gurugram, India","Perth, Australia",2
+"Gurugram, India","Mountain View, CA, United States",6
+"Gurugram, India","Bengaluru, India",1
+"Gurugram, India","Hamburg, Germany",4
+"Gurugram, India","Melbourne, Australia",1
+"Gurugram, India","Bucharest, Romania",2
+"Gurugram, India","Madrid, Spain",1
+"Gurugram, India","Moscow, ID, United States",1
+"Gurugram, India","New York, NY, United States",5
+"Gurugram, India","Zürich, Switzerland",4
+"Gurugram, India",Hong Kong,2
+"Gurugram, India","Athens, Greece",1
+"Gurugram, India","Helsinki, Finland",2
+"Gurugram, India","Dallas, TX, United States",1
+"Gurugram, India","Dublin, Ireland",4
+"Gurugram, India","København, Denmark",2
+"Gurugram, India","Waterloo, ON, Canada",1
+"Gurugram, India","San Bruno, CA, United States",2
+"Gurugram, India","Chicago, IL, United States",4
+"Gurugram, India","Irvine, CA, United States",1
+"Gurugram, India","South San Francisco, CA, United States",1
+"Gurugram, India","Milan, Italy",3
+"Gurugram, India","Ann Arbor, MI, United States",2
+"Gurugram, India","Boulder, CO, United States",2
+"Gurugram, India","Bogotá, Colombia",1
+"Gurugram, India","Kirkland, WA, United States",3
+"Gurugram, India","Montreal, QC, Canada",1
+"Gurugram, India",Singapore,5
+"Shanghai, China","Milano, Italy",1
+"Shanghai, China","Budapest, Hungary",1
+"Shanghai, China","Perth, Australia",2
+"Shanghai, China","Mountain View, CA, United States",11
+"Shanghai, China","Bengaluru, India",2
+"Shanghai, China","Hamburg, Germany",4
+"Shanghai, China","Melbourne, Australia",1
+"Shanghai, China","Bucharest, Romania",2
+"Shanghai, China","Madrid, Spain",1
+"Shanghai, China","Moscow, ID, United States",1
+"Shanghai, China","New York, NY, United States",8
+"Shanghai, China","Zürich, Switzerland",4
+"Shanghai, China",Hong Kong,4
+"Shanghai, China","Athens, Greece",1
+"Shanghai, China","Helsinki, Finland",2
+"Shanghai, China","Dallas, TX, United States",1
+"Shanghai, China","Dublin, Ireland",7
+"Shanghai, China","København, Denmark",2
+"Shanghai, China","Waterloo, ON, Canada",3
+"Shanghai, China","Kraków, Poland",1
+"Shanghai, China","San Bruno, CA, United States",3
+"Shanghai, China","Chicago, IL, United States",4
+"Shanghai, China","Irvine, CA, United States",2
+"Shanghai, China","South San Francisco, CA, United States",2
+"Shanghai, China","Bangkok, Thailand",1
+"Shanghai, China","Milan, Italy",3
+"Shanghai, China","Ann Arbor, MI, United States",2
+"Shanghai, China","Boulder, CO, United States",3
+"Shanghai, China","Bogotá, Colombia",1
+"Shanghai, China","Kirkland, WA, United States",5
+"Shanghai, China","Montreal, QC, Canada",1
+"Shanghai, China",Singapore,6
+"Milano, Italy","Hamburg, Germany",1
+"Milano, Italy","Bucharest, Romania",1
+"Milano, Italy","Zürich, Switzerland",1
+"Milano, Italy","New York, NY, United States",1
+"Milano, Italy","Dublin, Ireland",1
+"Milano, Italy","Waterloo, ON, Canada",1
+"Milano, Italy","Chicago, IL, United States",1
+"Milano, Italy","Milan, Italy",1
+"Milano, Italy","Kirkland, WA, United States",1
+"Milano, Italy","Perth, Australia",1
+"Milano, Italy","Mountain View, CA, United States",1
+"Milano, Italy",Singapore,1
+"Budapest, Hungary","Hamburg, Germany",1
+"Budapest, Hungary","Bucharest, Romania",1
+"Budapest, Hungary","Madrid, Spain",1
+"Budapest, Hungary","New York, NY, United States",1
+"Budapest, Hungary","Zürich, Switzerland",1
+"Budapest, Hungary",Hong Kong,1
+"Budapest, Hungary","Athens, Greece",1
+"Budapest, Hungary","Helsinki, Finland",1
+"Budapest, Hungary","Dublin, Ireland",1
+"Budapest, Hungary","København, Denmark",1
+"Budapest, Hungary","San Bruno, CA, United States",1
+"Budapest, Hungary","Chicago, IL, United States",1
+"Budapest, Hungary","Milan, Italy",1
+"Budapest, Hungary","Boulder, CO, United States",1
+"Budapest, Hungary","Kirkland, WA, United States",1
+"Budapest, Hungary","Mountain View, CA, United States",1
+"Perth, Australia","Mountain View, CA, United States",2
+"Perth, Australia","Hamburg, Germany",2
+"Perth, Australia","Bucharest, Romania",1
+"Perth, Australia","Melbourne, Australia",1
+"Perth, Australia","Moscow, ID, United States",1
+"Perth, Australia","Zürich, Switzerland",2
+"Perth, Australia","New York, NY, United States",2
+"Perth, Australia",Hong Kong,1
+"Perth, Australia","Helsinki, Finland",1
+"Perth, Australia","Dallas, TX, United States",1
+"Perth, Australia","Dublin, Ireland",2
+"Perth, Australia","København, Denmark",1
+"Perth, Australia","Waterloo, ON, Canada",1
+"Perth, Australia","Chicago, IL, United States",2
+"Perth, Australia","Milan, Italy",2
+"Perth, Australia","Ann Arbor, MI, United States",1
+"Perth, Australia","Bogotá, Colombia",1
+"Perth, Australia","Kirkland, WA, United States",1
+"Perth, Australia","Montreal, QC, Canada",1
+"Perth, Australia",Singapore,2
+"Mountain View, CA, United States","Bengaluru, India",3
+"Mountain View, CA, United States","Hamburg, Germany",5
+"Mountain View, CA, United States","Bucharest, Romania",3
+"Mountain View, CA, United States","Melbourne, Australia",1
+"Mountain View, CA, United States","Madrid, Spain",1
+"Mountain View, CA, United States","Moscow, ID, United States",1
+"Mountain View, CA, United States","New York, NY, United States",15
+"Mountain View, CA, United States","Zürich, Switzerland",6
+"Mountain View, CA, United States",Hong Kong,4
+"Mountain View, CA, United States","Athens, Greece",1
+"Mountain View, CA, United States","Helsinki, Finland",3
+"Mountain View, CA, United States","Dallas, TX, United States",1
+"Mountain View, CA, United States","Dublin, Ireland",10
+"Mountain View, CA, United States","København, Denmark",2
+"Mountain View, CA, United States","Waterloo, ON, Canada",3
+"Mountain View, CA, United States","Kraków, Poland",1
+"Mountain View, CA, United States","San Bruno, CA, United States",6
+"Mountain View, CA, United States","Chicago, IL, United States",6
+"Mountain View, CA, United States","South San Francisco, CA, United States",3
+"Mountain View, CA, United States","Irvine, CA, United States",3
+"Mountain View, CA, United States","Bangkok, Thailand",1
+"Mountain View, CA, United States","Milan, Italy",3
+"Mountain View, CA, United States","Ann Arbor, MI, United States",4
+"Mountain View, CA, United States","Boulder, CO, United States",7
+"Mountain View, CA, United States","Bogotá, Colombia",2
+"Mountain View, CA, United States","Kirkland, WA, United States",8
+"Mountain View, CA, United States","Montreal, QC, Canada",1
+"Mountain View, CA, United States",Singapore,12
+"Bengaluru, India","Hamburg, Germany",1
+"Bengaluru, India","New York, NY, United States",2
+"Bengaluru, India","Dublin, Ireland",1
+"Bengaluru, India","Waterloo, ON, Canada",1
+"Bengaluru, India","San Bruno, CA, United States",1
+"Bengaluru, India","Chicago, IL, United States",1
+"Bengaluru, India","Irvine, CA, United States",3
+"Bengaluru, India","South San Francisco, CA, United States",1
+"Bengaluru, India","Boulder, CO, United States",2
+"Bengaluru, India","Kirkland, WA, United States",1
+"Bengaluru, India",Singapore,2
+"Hamburg, Germany","Melbourne, Australia",1
+"Hamburg, Germany","Bucharest, Romania",2
+"Hamburg, Germany","Madrid, Spain",1
+"Hamburg, Germany","Moscow, ID, United States",1
+"Hamburg, Germany","New York, NY, United States",3
+"Hamburg, Germany","Zürich, Switzerland",3
+"Hamburg, Germany",Hong Kong,2
+"Hamburg, Germany","Athens, Greece",1
+"Hamburg, Germany","Helsinki, Finland",2
+"Hamburg, Germany","Dallas, TX, United States",1
+"Hamburg, Germany","Dublin, Ireland",4
+"Hamburg, Germany","København, Denmark",2
+"Hamburg, Germany","Waterloo, ON, Canada",1
+"Hamburg, Germany","San Bruno, CA, United States",1
+"Hamburg, Germany","Chicago, IL, United States",4
+"Hamburg, Germany","Irvine, CA, United States",1
+"Hamburg, Germany","Milan, Italy",3
+"Hamburg, Germany","Ann Arbor, MI, United States",1
+"Hamburg, Germany","Boulder, CO, United States",2
+"Hamburg, Germany","Bogotá, Colombia",1
+"Hamburg, Germany","Kirkland, WA, United States",2
+"Hamburg, Germany","Montreal, QC, Canada",1
+"Hamburg, Germany",Singapore,4
+"Bucharest, Romania","Madrid, Spain",1
+"Bucharest, Romania","Zürich, Switzerland",3
+"Bucharest, Romania","New York, NY, United States",3
+"Bucharest, Romania",Hong Kong,1
+"Bucharest, Romania","Helsinki, Finland",2
+"Bucharest, Romania","Athens, Greece",1
+"Bucharest, Romania","Dublin, Ireland",2
+"Bucharest, Romania","København, Denmark",1
+"Bucharest, Romania","Waterloo, ON, Canada",1
+"Bucharest, Romania","San Bruno, CA, United States",1
+"Bucharest, Romania","Chicago, IL, United States",3
+"Bucharest, Romania","Milan, Italy",2
+"Bucharest, Romania","Boulder, CO, United States",2
+"Bucharest, Romania","Kirkland, WA, United States",2
+"Bucharest, Romania",Singapore,2
+"Melbourne, Australia","Moscow, ID, United States",1
+"Melbourne, Australia","New York, NY, United States",1
+"Melbourne, Australia","Zürich, Switzerland",1
+"Melbourne, Australia",Hong Kong,1
+"Melbourne, Australia","Helsinki, Finland",1
+"Melbourne, Australia","Dallas, TX, United States",1
+"Melbourne, Australia","Dublin, Ireland",1
+"Melbourne, Australia","København, Denmark",1
+"Melbourne, Australia","Chicago, IL, United States",1
+"Melbourne, Australia","Milan, Italy",1
+"Melbourne, Australia","Ann Arbor, MI, United States",1
+"Melbourne, Australia","Bogotá, Colombia",1
+"Melbourne, Australia","Montreal, QC, Canada",1
+"Melbourne, Australia",Singapore,1
+"Madrid, Spain","New York, NY, United States",1
+"Madrid, Spain","Zürich, Switzerland",1
+"Madrid, Spain",Hong Kong,1
+"Madrid, Spain","Athens, Greece",1
+"Madrid, Spain","Helsinki, Finland",1
+"Madrid, Spain","Dublin, Ireland",1
+"Madrid, Spain","København, Denmark",1
+"Madrid, Spain","San Bruno, CA, United States",1
+"Madrid, Spain","Chicago, IL, United States",1
+"Madrid, Spain","Milan, Italy",1
+"Madrid, Spain","Boulder, CO, United States",1
+"Madrid, Spain","Kirkland, WA, United States",1
+"Moscow, ID, United States","New York, NY, United States",1
+"Moscow, ID, United States","Zürich, Switzerland",1
+"Moscow, ID, United States",Hong Kong,1
+"Moscow, ID, United States","Helsinki, Finland",1
+"Moscow, ID, United States","Dallas, TX, United States",1
+"Moscow, ID, United States","Dublin, Ireland",1
+"Moscow, ID, United States","København, Denmark",1
+"Moscow, ID, United States","Chicago, IL, United States",1
+"Moscow, ID, United States","Milan, Italy",1
+"Moscow, ID, United States","Ann Arbor, MI, United States",1
+"Moscow, ID, United States","Bogotá, Colombia",1
+"Moscow, ID, United States","Montreal, QC, Canada",1
+"Moscow, ID, United States",Singapore,1
+"New York, NY, United States","Zürich, Switzerland",6
+"New York, NY, United States",Hong Kong,4
+"New York, NY, United States","Athens, Greece",1
+"New York, NY, United States","Helsinki, Finland",3
+"New York, NY, United States","Dallas, TX, United States",1
+"New York, NY, United States","Dublin, Ireland",9
+"New York, NY, United States","København, Denmark",2
+"New York, NY, United States","Waterloo, ON, Canada",3
+"New York, NY, United States","Kraków, Poland",1
+"New York, NY, United States","San Bruno, CA, United States",6
+"New York, NY, United States","Chicago, IL, United States",5
+"New York, NY, United States","Irvine, CA, United States",2
+"New York, NY, United States","South San Francisco, CA, United States",2
+"New York, NY, United States","Bangkok, Thailand",1
+"New York, NY, United States","Milan, Italy",3
+"New York, NY, United States","Ann Arbor, MI, United States",4
+"New York, NY, United States","Boulder, CO, United States",6
+"New York, NY, United States","Bogotá, Colombia",2
+"New York, NY, United States","Kirkland, WA, United States",7
+"New York, NY, United States","Montreal, QC, Canada",1
+"New York, NY, United States",Singapore,10
+"Zürich, Switzerland",Hong Kong,2
+"Zürich, Switzerland","Athens, Greece",1
+"Zürich, Switzerland","Helsinki, Finland",3
+"Zürich, Switzerland","Dallas, TX, United States",1
+"Zürich, Switzerland","Dublin, Ireland",6
+"Zürich, Switzerland","København, Denmark",2
+"Zürich, Switzerland","Waterloo, ON, Canada",1
+"Zürich, Switzerland","San Bruno, CA, United States",1
+"Zürich, Switzerland","Chicago, IL, United States",4
+"Zürich, Switzerland","Milan, Italy",3
+"Zürich, Switzerland","Ann Arbor, MI, United States",2
+"Zürich, Switzerland","Boulder, CO, United States",2
+"Zürich, Switzerland","Bogotá, Colombia",1
+"Zürich, Switzerland","Kirkland, WA, United States",3
+"Zürich, Switzerland","Montreal, QC, Canada",1
+"Zürich, Switzerland",Singapore,5
+Hong Kong,"Athens, Greece",1
+Hong Kong,"Helsinki, Finland",2
+Hong Kong,"Dallas, TX, United States",1
+Hong Kong,"Dublin, Ireland",3
+Hong Kong,"København, Denmark",2
+Hong Kong,"Waterloo, ON, Canada",1
+Hong Kong,"Kraków, Poland",1
+Hong Kong,"San Bruno, CA, United States",2
+Hong Kong,"Chicago, IL, United States",3
+Hong Kong,"Bangkok, Thailand",1
+Hong Kong,"Milan, Italy",2
+Hong Kong,"Ann Arbor, MI, United States",1
+Hong Kong,"Boulder, CO, United States",2
+Hong Kong,"Bogotá, Colombia",1
+Hong Kong,"Kirkland, WA, United States",2
+Hong Kong,"Montreal, QC, Canada",1
+Hong Kong,Singapore,2
+"Athens, Greece","Helsinki, Finland",1
+"Athens, Greece","Dublin, Ireland",1
+"Athens, Greece","København, Denmark",1
+"Athens, Greece","San Bruno, CA, United States",1
+"Athens, Greece","Chicago, IL, United States",1
+"Athens, Greece","Milan, Italy",1
+"Athens, Greece","Boulder, CO, United States",1
+"Athens, Greece","Kirkland, WA, United States",1
+"Helsinki, Finland","Dallas, TX, United States",1
+"Helsinki, Finland","Dublin, Ireland",2
+"Helsinki, Finland","København, Denmark",2
+"Helsinki, Finland","San Bruno, CA, United States",1
+"Helsinki, Finland","Chicago, IL, United States",3
+"Helsinki, Finland","Milan, Italy",2
+"Helsinki, Finland","Ann Arbor, MI, United States",1
+"Helsinki, Finland","Boulder, CO, United States",2
+"Helsinki, Finland","Bogotá, Colombia",1
+"Helsinki, Finland","Kirkland, WA, United States",1
+"Helsinki, Finland","Montreal, QC, Canada",1
+"Helsinki, Finland",Singapore,2
+"Dallas, TX, United States","Dublin, Ireland",1
+"Dallas, TX, United States","København, Denmark",1
+"Dallas, TX, United States","Chicago, IL, United States",1
+"Dallas, TX, United States","Milan, Italy",1
+"Dallas, TX, United States","Ann Arbor, MI, United States",1
+"Dallas, TX, United States","Bogotá, Colombia",1
+"Dallas, TX, United States","Montreal, QC, Canada",1
+"Dallas, TX, United States",Singapore,1
+"Dublin, Ireland","København, Denmark",2
+"Dublin, Ireland","Waterloo, ON, Canada",2
+"Dublin, Ireland","San Bruno, CA, United States",3
+"Dublin, Ireland","Chicago, IL, United States",3
+"Dublin, Ireland","Irvine, CA, United States",1
+"Dublin, Ireland","South San Francisco, CA, United States",1
+"Dublin, Ireland","Bangkok, Thailand",1
+"Dublin, Ireland","Milan, Italy",3
+"Dublin, Ireland","Ann Arbor, MI, United States",4
+"Dublin, Ireland","Boulder, CO, United States",3
+"Dublin, Ireland","Bogotá, Colombia",2
+"Dublin, Ireland","Kirkland, WA, United States",5
+"Dublin, Ireland","Montreal, QC, Canada",1
+"Dublin, Ireland",Singapore,8
+"København, Denmark","San Bruno, CA, United States",1
+"København, Denmark","Chicago, IL, United States",2
+"København, Denmark","Milan, Italy",2
+"København, Denmark","Ann Arbor, MI, United States",1
+"København, Denmark","Boulder, CO, United States",1
+"København, Denmark","Bogotá, Colombia",1
+"København, Denmark","Kirkland, WA, United States",1
+"København, Denmark","Montreal, QC, Canada",1
+"København, Denmark",Singapore,1
+"Waterloo, ON, Canada","San Bruno, CA, United States",1
+"Waterloo, ON, Canada","Chicago, IL, United States",1
+"Waterloo, ON, Canada","Irvine, CA, United States",1
+"Waterloo, ON, Canada","Milan, Italy",1
+"Waterloo, ON, Canada","Bangkok, Thailand",1
+"Waterloo, ON, Canada","Boulder, CO, United States",1
+"Waterloo, ON, Canada","Kirkland, WA, United States",3
+"Waterloo, ON, Canada",Singapore,3
+"Kraków, Poland","San Bruno, CA, United States",1
+"Kraków, Poland","Chicago, IL, United States",1
+"Kraków, Poland","Boulder, CO, United States",1
+"San Bruno, CA, United States","Chicago, IL, United States",2
+"San Bruno, CA, United States","Irvine, CA, United States",1
+"San Bruno, CA, United States","South San Francisco, CA, United States",1
+"San Bruno, CA, United States","Milan, Italy",1
+"San Bruno, CA, United States","Ann Arbor, MI, United States",2
+"San Bruno, CA, United States","Boulder, CO, United States",5
+"San Bruno, CA, United States","Bogotá, Colombia",1
+"San Bruno, CA, United States","Kirkland, WA, United States",3
+"San Bruno, CA, United States",Singapore,4
+"Chicago, IL, United States","Irvine, CA, United States",1
+"Chicago, IL, United States","Milan, Italy",3
+"Chicago, IL, United States","Ann Arbor, MI, United States",1
+"Chicago, IL, United States","Boulder, CO, United States",4
+"Chicago, IL, United States","Bogotá, Colombia",1
+"Chicago, IL, United States","Kirkland, WA, United States",2
+"Chicago, IL, United States","Montreal, QC, Canada",1
+"Chicago, IL, United States",Singapore,4
+"South San Francisco, CA, United States","Irvine, CA, United States",1
+"South San Francisco, CA, United States",Singapore,1
+"Irvine, CA, United States","Boulder, CO, United States",2
+"Irvine, CA, United States","Kirkland, WA, United States",1
+"Irvine, CA, United States",Singapore,2
+"Bangkok, Thailand","Kirkland, WA, United States",1
+"Bangkok, Thailand",Singapore,1
+"Milan, Italy","Ann Arbor, MI, United States",1
+"Milan, Italy","Boulder, CO, United States",1
+"Milan, Italy","Bogotá, Colombia",1
+"Milan, Italy","Kirkland, WA, United States",2
+"Milan, Italy","Montreal, QC, Canada",1
+"Milan, Italy",Singapore,2
+"Ann Arbor, MI, United States","Boulder, CO, United States",2
+"Ann Arbor, MI, United States","Bogotá, Colombia",2
+"Ann Arbor, MI, United States","Kirkland, WA, United States",2
+"Ann Arbor, MI, United States","Montreal, QC, Canada",1
+"Ann Arbor, MI, United States",Singapore,4
+"Boulder, CO, United States","Bogotá, Colombia",1
+"Boulder, CO, United States","Kirkland, WA, United States",3
+"Boulder, CO, United States",Singapore,5
+"Bogotá, Colombia","Montreal, QC, Canada",1
+"Bogotá, Colombia",Singapore,2
+"Kirkland, WA, United States",Singapore,5
+"Montreal, QC, Canada",Singapore,1
