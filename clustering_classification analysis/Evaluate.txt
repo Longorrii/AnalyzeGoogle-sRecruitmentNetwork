@@ -1,0 +1,152 @@
+Đánh giá/phân tích các thuật toán Gọm cụm/Phân lớp -- Đã trình bày trong file Báo cáo
+
+Đối với Lovain thì sẽ phân thành 4 cụm: 
+
+Cụm 0: 
+
+• Các địa điểm/khu vực tuyển dụng phân bổ các quốc gia như: United States, Thailand, China, India, Ireland, Netherlands, Poland, United Kingdom, Brizil, Australia, 
+Singapore, Japan, Canada, Taiwan, Israel trong đó hầu hết đa số các địa điểm/khu vực tuyển dụng chiếm đa số ở United State
+• Có 11 hạng mục/lĩnh vực được tuyển dụng, các hạng mục/lĩnh vực tuyển dụng đa dạng có phân bố đồng đều, trong đó các lĩnh vực được tuyển nhiều trong cụm là Sales 
+& Account Management, User Experience, Business Strategy và ít nhất ở các lĩnh vực như Network Engineering, Data Center & Network, IT & Data Management
+• Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển nhiều lĩnh vực khác nhau (hầu hết trên 3 lĩnh vực) trong đó các địa điểm Mountain View, CA, 
+United State và Sunnyvale, CA, United States thể hiện rõ nhất với nhiều lĩnh vực/ hạng mục công việc khác nhau.
+
+Cụm 1: 
+
+• Các địa điểm/khu vực tuyển dụng phân bổ các quốc gia như: United States, Colombia, Finland, Hong Kong, Turkey, Indonesia, South Africa, Denmark, Australia, Mexico, 
+Italy, Canada, Russia, Norway, Sweden, Canada, Poland, Switzerland trong đó hầu hết đa số các quốc gia đến từ Châu Âu
+• Có 10 hạng mục/lĩnh vực được tuyển dụng, Các hạng mục/lĩnh vực tuyển dụng phân bố không đồng đều, trong đó 2 lĩnh vực chiếm đa số trong cụm là Sales & Account 
+Management tiếp đến Marketing & Communications , các lĩnh vực còn lại chiếm rất ít
+• Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển từ 2-4 lĩnh vực. Trong đó địa điểm ZUrich, Switzerland tuyển nhiều lĩnh vực nhất với 7 lĩnh vực
+
+Cụm 2:
+ 
+• Các địa điểm/khu vực tuyển dụng phân bổ các quốc gia như: Netherlands, Greece, Slovakia, Romania, Hungary, Argentina, United Arab Emirates, Belgium, Ukraine,
+India, Portugal, Spain, Kenya, United States, Czechia, Lithuania, Croatia trong đó hầu hết đa số các quốc gia đến từ Châu Âu (11 quốc gia)
+• Có 8 hạng mục/lĩnh vực công việc được tuyển dụng, Các hạng mục/lĩnh vực tuyển dụng trong cụm đa số ít, trong đó lĩnh vực chiếm ưu thế trong cụm là Marketing & 
+Cominication
+• Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển ít lĩnh vực đa số là 1 lĩnh vực (Marketing & Cominication). Tuy nhiên địa điểm , Hyderabad, 
+India tuyển nhiều lĩnh vực nhất với 5 lĩnh vực
+
+Cụm 3: 
+
+• Các địa điểm/khu vực tuyển dụng phân bổ các quốc gia như: Germany, United States, India, Philippines, Italy, France, United States, South Koreatrong. Trong đó số địa 
+điểm tương ứng với các quốc gia như sau: Germany: 4, United States: 3, India: 2, Philippines, Italy, France, South Korea: 1. Germany chiếm ưu thế
+• Có 13 hạng mục/lĩnh vực công việc được tuyển dụng, Các hạng mục/lĩnh vực tuyển dụng trong cụm tương đối, trong đó 2 lĩnh vực chiếm ưu thế trong cụm là Technical 
+Solutions và Sales Operations
+• Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển Technical Solutions và Sales Operations . Mỗi địa điểm tuyển trung bình 3 lĩnh vực trở lên. 
+Địa điểm Paris, France tuyển nhiều lĩnh vực nhất với 8 lĩnh vực trong khi đó các địa điểm như Milano, Italy, Porland, OR, United States, Salt Lake City, UT, United States
+chỉ với 1 lĩnh vực
+
+
+Đối với Girvan-Newman sẽ phân thành 2 cụm: Thuật toán này có sự chênh lệch số lượng cụm khá lớn, nó không phù hợp để phân cụm dataset này, nó cho đặc trưng của cụm nhỏ
+
+Cụm 0: 
+
+• Các địa điểm/khu vực tuyển dụng phân bổ ở hầu hết các quốc gia trên thế giới
+• Có tất cả 23 hạng mục/lĩnh vực được tuyển dụng và phân bố không đồng đều. Trong đó Marketing & Communications, Sales & Account Management được 
+tuyển nhiều nhất
+
+Cụm 1:
+
+• Chỉ có duy nhất 1 địa điểm/khu vực tuyển dụng đó là The Dalles, OR, United States và địa điểm này tuyển dụng lĩnh vực về Technical Infrastructure
+
+Đối với K-means sẽ phân thành 3 cụm:
+
+Cụm 0:
+
+• Các địa điểm/khu vực tuyển dụng phân bổ ở khắp các châu lục như các quốc gia: Netherlands, United States, China, Germany, Romania, Germany, India, Finland, 
+Hong Kong, Turkey, Mexico, Italy, Russia, Norway, Brazil, South Korea, Sweden, Taiwan, Israel, Poland, Switzerlandtrong đó hầu hết đa số các địa điểm/khu vực
+tuyển dụng chiếm đa số ở United State
+• Có 21 hạng mục/lĩnh vực được tuyển dụng, các hạng mục/lĩnh vực tuyển dụng đa dạng có phân bố không đồng đều, trong đó các lĩnh vực được tuyển nhiều trong cụm 
+là Sales & Account Management, Marketing & Commnication
+• Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển nhiều lĩnh vực khác nhau (hầu hết trên 4 lĩnh vực khác nhau) trong đó các địa điểm Los Angeles, 
+CA, United State và Xinyi District, Taiwan thể hiện rõ nhất với 8 lĩnh vực/ hạng mục công việc khác nhau.
+
+Cụm 1:
+
+• Các địa điểm/khu vực tuyển dụng phân bổ các quốc gia như: Greece, United States, Thailand, Colombia, … .Trong đó hầu hết các địa điểm đa số đến từ các nước Châu 
+Âu
+• Có 18 hạng mục/lĩnh vực được tuyển dụng, có các lĩnh vực tuyển nhiều tuy nhiên đa số các lĩnh vực khác lại rất ít. Trong đó 2 lĩnh vực chiếm đa số trong cụm là Sales & 
+Account Managemen, Marketing & Communications , các lĩnh vực còn lại chiếm rất ít
+• Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển chỉ từ 1-3 lĩnh vực. 
+
+Cụm 2:
+
+• Các địa điểm/khu vực tuyển dụng phân bổ các quốc gia như: Ireland, United Kingdom, United States, France, China, Singapore, Australia, Japan trong đó hầu hết 
+các địa điểm đa số đến từ các nước United States
+• Có 23 hạng mục/lĩnh vực được tuyển dụng. Các lĩnh vực tuyển dụng tương đối đồng đều với nhau và tuyển nhiều. Trong đó lĩnh vực chiếm nhiều nhất là trong cụm là 
+Techinical Solutions.Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển chỉ từ 9 lĩnh vực trở lên
+
+Đối với Gaussian Mixture sẽ phân thành 3 cụm:
+
+Cụm 0:
+
+• Các địa điểm/khu vực tuyển dụng phân bổ ở khắp các châu lục như các quốc gia trong đó các địa điểm/khu vực tuyển dụn từ United State chiếm nhiều nhất
+• Có 18 hạng mục/lĩnh vực được tuyển dụng, các hạng mục/lĩnh vực tuyển dụng đa dạng có phân bố không đồng đều, có các lĩnh vực tuyển nhiều tuy nhiên đa số các lĩnh 
+vực khác lại rất ít . Lĩnh vực được tuyển nhiều trong cụm là Sales & Account Management, Marketing & Commnication
+• Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển từ 1-3 lĩnh vực.
+
+Cụm 1:
+
+• Các địa điểm/khu vực tuyển dụng phân bổ các quốc gia trên thế giới. 
+• Có 21 hạng mục/lĩnh vực được tuyển dụng, Các lĩnh vực tuyển dụng không đồng đều với nhau. Trong đó 2 lĩnh vực chiếm đa số trong cụm là Sales & Account 
+Managemen, Marketing & Communications.
+• Ta thấy hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển chỉ từ 4 lĩnh vực. 
+
+Cụm 2:
+
+• Các địa điểm/khu vực đến từ các nước như: Ireland, United Kingdom, France, China, Singapore, Australia, Japan trong đó các địa điểm đến từ United States chiếm ưu thế 
+tiếp đến là 
+• Có 23 hạng mục/lĩnh vực được tuyển dụng. Các lĩnh vực tuyển dụng tương đối đồng đều với nhau và đa số tuyển nhiều. Trong đó lĩnh vực chiếm nhiều nhất là trong cụm 
+là Techinical Solution.
+• Hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển chỉ từ 10 lĩnh vực trở lên và tuyền nhiều lĩnh vực nhất tại Mountain View, CA, United States
+
+Đối với Hierachical sẽ phân thành 3 cụm:
+
+Cụm 0:
+
+• Có 21 hạng mục/lĩnh vực được tuyển dụng, các hạng mục/lĩnh vực tuyển dụng đa dạng có phân bố không đồng đều, có các lĩnh vực tuyển nhiều tuy nhiên đa số các lĩnh 
+vực khác lại rất ít . Lĩnh vực chiếm nhiều nhất trong cụm là Sales & Account Management sau đó Marketing & Commnication và tuyển ít nhất ở các lĩnh vực 
+như Technical Writing, Technical Infrastructure
+• Hầu hết các địa điểm/khu vực tuyển dụng trong cụm đều tuyển nhiều lĩnh vực khác nhau từ 2-8 lĩnh vực
+
+Cụm 1:
+
+• Các địa điểm/khu vực tuyển dụng phân bổ các quốc gia trên thế giới.
+• Có 23 hạng mục/lĩnh vực được tuyển dụng. Các lĩnh vực tuyển dụng tương đối đồng đều với nhau và đa số tuyển nhiều. Trong đó lĩnh vực chiếm nhiều nhất là trong cụm 
+là Techinical Solution, tiếp đến là People Operations, Product & Customer Support
+• Ta thấy hầu hết các địa điểm/khu vực tuyển số lượng các lĩnh vực tương đối như nhau (từ 10 lĩnh vực công việc)
+
+Cụm 2:
+
+• Có 17 hạng mục/lĩnh vực được tuyển dụng. Các lĩnh vực tuyển dụng có sự chênh lớn với nhau, có những lĩnh vực tuyển rất ít nhưng lại có 1 số lĩnh vực tuyển nhiều. Trong 
+đó lĩnh vực chiếm nhiều nhất là trong cụm là Marketing & Communication.
+• Hầu hết các địa điểm/khu vực tuyển dụng tương đôi ít lĩnh vực (1-3 lĩnh vực)
+
+
+Sau khi thực hiện 5 thuật toán là Lovain, Girvan-Newman, K-means, Gaussian Mixture 
+Model, Hierachical Clustering thì chúng ta có các luận sau:
+
+• Louvain: Đối với Louvain, phân cụm tốt mỗi cụm sẽ cho thấy được hạng mục/lĩnh vực công việc nào được tuyển nhiều nhất/ ít nhất. Các địa điểm/ khu vực sẽ tuyển 
+trung bình bao nhiêu lĩnh vực và việc phân cụm còn nói rõ về phân bố kế hoạch tuyển dụng của Google theo Châu lục hay quốc gia trong cụm đó và đặc trưng của mỗi cụm 
+đều khác nhau.
+
+• Girvan-Newman: Phương pháp này tách cụm bằng cách loại bỏ các cạnh quan trọng, tạo ra những cụm tương đối độc lập. Nó có thể hữu ích để xác định các nhóm chủ đề 
+hay cộng đồng mà không cần phụ thuộc vào sự chặt chẽ của các liên kết, tuy nhiên nó có vẻ không phù hợp với dataset này cho số lượng node trong cụm của nó rất chênh 
+lệch
+
+• K-means: Khi áp dụng thuật toán K-means, việc phân loại các đỉnh vào các cụm giúp làm rõ sự tập trung hay phân bố của các vị trí làm việc trên đồ thị. Tuy nhiên, đối với 
+mạng xã hội, việc này có thể không phản ánh chặt chẽ mối quan hệ giữa các nút.
+
+• Gaussian Mixture Model (GMM): GMM giúp mô hình hóa phân phối xác suất của các cụm và có thể tạo ra sự mềm dẻo hơn khi gán các nút vào cụm. Điều này có thể 
+giúp định rõ sự chệch chạy theo chủ đề hay ngành nghề trong mạng xã hội.
+
+• Hierarchical Clustering: Phương pháp này tạo ra một cấu trúc phân cấp giữa các cụm, giúp hiểu rõ sự chia rẽ và gộp nhóm. Có thể sử dụng để xác định mức độ chặt chẽ và 
+sự tương tác giữa các cộng đồng.
+
+Trong đó thì có thuật toán K-means, Gaussian Mixture Model, Hierarchical Clustering cho 
+kết quả phân cụm khá giống nhau
+
+➔ Trong các thuật toán này thì Lovain là thuật toán cho kết quả tốt nhất đối với tập Dataset 
+này, do nó phân cụm và đặc trưng của mỗi cụm tốt hơn các thuật toán khác
